@@ -57,7 +57,7 @@ html, body {
 	font-size: 32px;
 }
 .navbar ul {
-	float: right;
+	text-align: center;
 }
 .navbar-header {
 	background-color: #ccffcc;
