@@ -53,22 +53,25 @@ html, body {
 .jumbotron p,h2 {
 	position: relative;
 }
-.jumbotron p {
-	font-size: 130%;
+.jumbotron h2 {
+	font-size: 32px;
 }
 .navbar ul {
 	float: right;
 }
-.navwrapper {
+.navbar-header {
 	background-color: #ccffcc;
 }
 .navbar-fixed-middle {
 	background-color: #ccffcc;
 }
-.navbar {
+.navbar-default {
 	background-color: #ccffcc;
 	font-family:Trebuchet MS;
 	border-radius: 10px;
+}
+.button {
+	color: #0077C0;
 }
 .about_me h2 {
 	color:#004d00;
