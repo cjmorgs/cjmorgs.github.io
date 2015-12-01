@@ -61,17 +61,22 @@ html, body {
 }
 .navbar-header {
 	background-color: #ccffcc;
-}
-.navbar-fixed-middle {
-	background-color: #ccffcc;
-}
-.navbar-default {
-	background-color: #ccffcc;
-	font-family:Trebuchet MS;
 	border-radius: 10px;
 }
-.button {
-	color: #0077C0;
+.navbar-default {
+	background-color: #CCFFCC;
+	font-family:Trebuchet MS;
+	border-radius: 10px;
+	background-image: none;
+}
+.collapsed {
+	background-color: #0077C0;
+}
+.menu {
+	color: #EEE1C6;
+}
+.glyphicon-menu-hamburger {
+	color: #EEE1C6;
 }
 .about_me h2 {
 	color:#004d00;
@@ -95,3 +100,9 @@ a:link {
 a:visited {
 	color: #999966;
 }
+a:hover {
+  color: #004d00;
+}
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #004d00;
