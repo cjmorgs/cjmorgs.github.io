@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Dublin",
+        "Celtic": "\"184,140\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.259722,
+          53.347778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Galway",
+        "Celtic": "\"37,614\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.048889,
+          53.271944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Cork",
+        "Celtic": "\"57,318\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47,
+          51.897222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Belfast",
+        "Celtic": "\"30,360\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93,
+          54.597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Douglas",
+        "Celtic": "\"507\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482,
+          54.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Glasgow",
+        "Celtic": "\"5,726\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259,
+          55.858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Edinburgh",
+        "Celtic": "\"3,220\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188889,
+          55.953056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Aberdeen",
+        "Celtic": "\"1,397\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11,
+          57.1526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Cardiff",
+        "Celtic": "\"54,504\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183333,
+          51.483333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Swansea",
+        "Celtic": "\"45,085\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95,
+          51.616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Newport",
+        "Celtic": "\"18,490\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          51.583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Truro",
+        "Celtic": "\"118\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.051,
+          50.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Rennes",
+        "Celtic": "\"7,000\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6794,
+          48.1147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brest",
+        "Celtic": "\"40,000\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49,
+          48.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Nantes",
+        "Celtic": "\"4,000\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5528,
+          47.2181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Dublin",
+        "Celtic": "\"184,140\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.259722,
+          53.347778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Galway",
+        "Celtic": "\"37,614\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.048889,
+          53.271944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Cork",
+        "Celtic": "\"57,318\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47,
+          51.897222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Belfast",
+        "Celtic": "\"30,360\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93,
+          54.597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Douglas",
+        "Celtic": "\"507\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482,
+          54.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Glasgow",
+        "Celtic": "\"5,726\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259,
+          55.858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Edinburgh",
+        "Celtic": "\"3,220\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188889,
+          55.953056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Aberdeen",
+        "Celtic": "\"1,397\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11,
+          57.1526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Cardiff",
+        "Celtic": "\"54,504\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183333,
+          51.483333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Swansea",
+        "Celtic": "\"45,085\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95,
+          51.616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Newport",
+        "Celtic": "\"18,490\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          51.583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Truro",
+        "Celtic": "\"118\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.051,
+          50.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Rennes",
+        "Celtic": "\"7,000\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6794,
+          48.1147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brest",
+        "Celtic": "\"40,000\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49,
+          48.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Nantes",
+        "Celtic": "\"4,000\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5528,
+          47.2181
+        ]
+      }
+    }
+  ]
+}
