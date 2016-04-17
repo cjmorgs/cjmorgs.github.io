@@ -1,0 +1,169 @@
+/* 575 boilerplate style.css */
+#pagetitle {
+    color: #cc0000;
+    font-size: 3em;
+    font-family: Rockwell;
+    text-align: center;
+    font-style: italic;
+    background-color: #fff;
+    background:rgba(255,255,255,0.8);
+    border-radius: 10px;
+    width: 70%;
+    margin: auto;
+}
+
+#full-screen-background-image {
+    z-index: -999;
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.4;
+}
+
+#leaf1 {
+    height: 40px;
+    padding-right: 4%;
+    padding-top: 10px; 
+}
+#leaf2 {
+    height: 40px;
+    padding-left: 4%;
+    padding-top: 10px;
+}
+
+.map {
+	background-color: #ccffe6;
+	border: medium solid #999;
+    margin: 10px 0 0 20px;
+    border-radius: 20px;
+}
+
+.provinces {
+    fill: #FFF;
+    stroke: #FFF;
+    stroke-width: 2px;
+}
+
+.chart {
+    background:rgba(255,255,255,0);
+    border: none;
+    float: right;
+    margin: 10px 20px 0 0;
+}
+
+.numbers {
+    fill: black;
+    font-family: sans-serif;
+}
+
+.chart {
+    float: right;
+    margin: 7px 20px 0 0;
+}
+
+.chartTitle {
+    font-family: Rockwell;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.chartSubtitle {
+    font-family: Rockwell;
+    font-size: 1em;
+}
+
+.chartBackground {
+    background-image: url("img/leaf.jpg");
+    fill: #cccccc;
+}
+
+.chartFrame {
+    fill: none;
+    stroke: #999;
+    stroke-width: 3px;
+    shape-rendering: crispEdges;
+}
+
+.bars {
+    stroke: #b3b3b3;
+    stroke-width: 1px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: Rockwell;
+    font-size: 1em;
+    fill: #000;
+}
+
+.dropdown {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 10;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 2px;
+    border: 1px solid #999;
+    box-shadow: 2px 2px 4px #999;
+    border-radius: 5px;
+}
+
+option {
+    font-weight: normal;
+}
+
+.infolabel {
+    position: absolute;
+    height: 50px;
+    min-width: 100px;
+    color: #cc0000;
+    font-family: Rockwell;
+    background-color: #fff;
+    border: solid thin #cc0000;
+    padding: 5px 10px;
+    top: -75px;
+}
+
+.infolabel h1 {
+    margin: 0 20px 0 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 1em;
+}
+
+#sources {
+    font-family: Rockwell;
+    color: #000066; /*navy blue*/
+    padding: .5%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 1%;
+    font-size: 90%;
+}
+
+a:link {
+    color: #000066; /*navy blue*/
+}
+
+/* visited link */
+a:visited {
+    color: #003300; /*dark green*/
+}
+
+/* mouse over link */
+a:hover {
+    color: #990000; /*deep red*/
+}
