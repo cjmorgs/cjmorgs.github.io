@@ -12,7 +12,7 @@ function createMap(){
 		center: [46.481, -93.8],
 		zoom: 7,
 		maxZoom: 17,
-  	minZoom: 7,
+  	minZoom: 6,
   	maxBounds: bounds
     // layers: [Thunderforest_Outdoors, Esri_WorldImagery]
 	});
