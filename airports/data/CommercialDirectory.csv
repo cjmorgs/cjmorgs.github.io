@@ -1,0 +1,11 @@
+Airport Identifier,"Abbreviated
+Airport Name",Latitude (DD),Longitude (DD),Manager's Name,"Airport 
+E-mail Address",Airport Manager's Phone No.,Airport Manager's Address - Line 1,Address Line 2,City,,State,Zip,Type
+BJI,Bemidji,47.51,-94.93,"Harold M. Van Leeuwen, Jr.",harold.vanleeuwen@bemidjiairport.org,218-444-2438,3824 Moberg Dr. NW   Suite 101,,Bemidji,,MN,56601,Commercial
+BRD,Brainerd,46.4,-94.14,Steve D. Sievek,steve@brainerdairport.com,218-825-2166,16384 Airport Road,Suite 5,Brainerd,,MN,56401,Commercial
+DLH,Duluth,46.84,-92.19,Brian Ryks,bryks@duluthairport.com,218-727-2968,4701 Grinden Drive,,Duluth,,MN,55811,Commercial
+HIB,Hibbing,47.39,-92.84,Shaun Germolus,shaun@rangeregionalairport.com,218-262-3451,11038 Highway 37,,Hibbing,,MN,55746,Commercial
+INL,International Falls,48.57,-93.4,Thor Einarson,thor@einarsonflying.com,218-283-4461,3214 Second Avenue E.,,International Falls,,MN,56649,Commercial
+MSP,Minneapolis-St. Paul,44.88,-93.22,Steve Wareham,steve.wareham@mspmac.org,612-725-6464,4300 Glumack Drive,Suite 3000,Saint Paul,,MN,55111,Commercial
+RST,Rochester,43.91,-92.5,Steven W. Leqve,sleqve@flyrst.com,507-282-2328,7600 Helgerson Drive SW.,,Rochester,,MN,55902,Commercial
+TVF,Thief River Falls,48.07,-96.18,Joseph Hedrick,trfairport@mncable.net,218-681-7680,13722 Airport Drive,,Thief River Falls,,MN,56701,Commercial

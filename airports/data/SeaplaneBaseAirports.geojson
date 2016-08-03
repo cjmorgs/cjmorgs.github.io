@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                                                                  
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "City": "International Falls", "Airport": "International Falls Seaplane Base", "ID": "Ø91" }, "geometry": { "type": "Point", "coordinates": [ -93.37083333361366, 48.60583333309917 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "City": "Crane Lake", "Airport": "Scott's Seaplane Base", "ID": "CDD" }, "geometry": { "type": "Point", "coordinates": [ -92.483491111051478, 48.26657166659836 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "City": "Hibbing", "Airport": "Carey Lake Seaplane Base", "ID": "9MNØ" }, "geometry": { "type": "Point", "coordinates": [ -92.827690000560423, 47.418260000151406 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "City": "Waubun", "Airport": "Jolly Fisherman Seaplane Base", "ID": "M49" }, "geometry": { "type": "Point", "coordinates": [ -95.528918333427043, 47.143015000305823 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "City": "Eveleth", "Airport": "Sky Harbor Seaplane Base", "ID": "9Y5" }, "geometry": { "type": "Point", "coordinates": [ -92.476063610577043, 47.444107222575482 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "City": "Deerwood", "Airport": "Birch Lake Seaplane Base", "ID": "M69" }, "geometry": { "type": "Point", "coordinates": [ -93.813866666381529, 46.369680555321935 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "City": "East Gull Lake", "Airport": "Steamboat Bay Seaplane Base", "ID": "M16" }, "geometry": { "type": "Point", "coordinates": [ -94.370736111734317, 46.412879999692976 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "City": "Lino Lakes", "Airport": "Surfside Seaplane Base", "ID": "8Y4" }, "geometry": { "type": "Point", "coordinates": [ -93.116888889250333, 45.149966110770009 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "City": "Inver Grove Heights", "Airport": "Wipline Seaplane Base", "ID": "Ø9Y" }, "geometry": { "type": "Point", "coordinates": [ -93.01549138907798, 44.816633055371838 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 12, "City": "Bemidji", "Airport": "Moberg Air Base", "ID": "96M" }, "geometry": { "type": "Point", "coordinates": [ -94.945280000119652, 47.499673889156902 ] } }
+]
+}

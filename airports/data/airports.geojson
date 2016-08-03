@@ -1,0 +1,2975 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.94,48.75 ]
+    },
+    "properties": {
+    "Airport_Identifier":"HCO",
+    "Abbreviated\nAirport_Name":"Hallock",
+    "Manager_s_Name":"Jeremy Seng",
+    "Airport_\nE_mail_Address":"jeremycseng@gmail.com",
+    "Airport_Manager_s_Phone_No_":"218-791-1067",
+    "Airport_Manager_s_Address___Line_1":"PO Box 397",
+    "Address_Line_2":"",
+    "City":"Cavalier",
+    "State":"MN",
+    "Zip":"58,220",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.86,48.46 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D41",
+    "Abbreviated\nAirport_Name":"Stephen",
+    "Manager_s_Name":"Kirk Larson",
+    "Airport_\nE_mail_Address":"larsonag@invisimax.com",
+    "Airport_Manager_s_Phone_No_":"218-478-2247",
+    "Airport_Manager_s_Address___Line_1":"40214 380th Avenue NW.",
+    "Address_Line_2":"",
+    "City":"Stephen",
+    "State":"MN",
+    "Zip":"56,757",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.72,48.19 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D37",
+    "Abbreviated\nAirport_Name":"Warren",
+    "Manager_s_Name":"Aaron Peterson",
+    "Airport_\nE_mail_Address":"aaron@radiumairspray.com",
+    "Airport_Manager_s_Phone_No_":"218-201-0652",
+    "Airport_Manager_s_Address___Line_1":"31454 Highway 1 NW.",
+    "Address_Line_2":"",
+    "City":"Warren",
+    "State":"MN",
+    "Zip":"56,762",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.66,46.84 ]
+    },
+    "properties": {
+    "Airport_Identifier":"JKJ",
+    "Abbreviated\nAirport_Name":"Moorhead",
+    "Manager_s_Name":"Kristie Leshovsky",
+    "Airport_\nE_mail_Address":"kristie.leshovsky@cityofmoorhead.com",
+    "Airport_Manager_s_Phone_No_":"218-299-5332",
+    "Airport_Manager_s_Address___Line_1":"500 Center Avenue",
+    "Address_Line_2":"",
+    "City":"Moorhead",
+    "State":"MN",
+    "Zip":"56,560",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.62,47.84 ]
+    },
+    "properties": {
+    "Airport_Identifier":"CKN",
+    "Abbreviated\nAirport_Name":"Crookston",
+    "Manager_s_Name":"Lowell Miller",
+    "Airport_\nE_mail_Address":"cknairport@rrv.net",
+    "Airport_Manager_s_Phone_No_":"218-281-2625",
+    "Airport_Manager_s_Address___Line_1":"26305 Airport Road SW",
+    "Address_Line_2":"",
+    "City":"Crookston",
+    "State":"MN",
+    "Zip":"56,716",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.54,48.58 ]
+    },
+    "properties": {
+    "Airport_Identifier":"23D",
+    "Abbreviated\nAirport_Name":"Karlstad",
+    "Manager_s_Name":"",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"",
+    "Airport_Manager_s_Address___Line_1":"",
+    "Address_Line_2":"",
+    "City":"",
+    "State":"MN",
+    "Zip":"0",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.54,45.78 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ETH",
+    "Abbreviated\nAirport_Name":"Wheaton",
+    "Manager_s_Name":"Jamie Beyer",
+    "Airport_\nE_mail_Address":"jbeyer@cityofwheaton.com",
+    "Airport_Manager_s_Phone_No_":"320-563-4110",
+    "Airport_Manager_s_Address___Line_1":"104 9th Street N.",
+    "Address_Line_2":"",
+    "City":"Wheaton",
+    "State":"MN",
+    "Zip":"56,296",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.42,45.31 ]
+    },
+    "properties": {
+    "Airport_Identifier":"VVV",
+    "Abbreviated\nAirport_Name":"Ortonville",
+    "Manager_s_Name":"Char Grossman",
+    "Airport_\nE_mail_Address":"finance@cityofortonville.org",
+    "Airport_Manager_s_Phone_No_":"320-839 3428",
+    "Airport_Manager_s_Address___Line_1":"315 Madison Avenue",
+    "Address_Line_2":"",
+    "City":"Ortonville",
+    "State":"MN",
+    "Zip":"56,278",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.4,47.26 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D00",
+    "Abbreviated\nAirport_Name":"Twin Valley",
+    "Manager_s_Name":"Bruce Visser",
+    "Airport_\nE_mail_Address":"babvisser@loretel.net",
+    "Airport_Manager_s_Phone_No_":"218-415-0191",
+    "Airport_Manager_s_Address___Line_1":"P.O. Box 9",
+    "Address_Line_2":"",
+    "City":"Ada",
+    "State":"MN",
+    "Zip":"56,510",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.35,46.88 ]
+    },
+    "properties": {
+    "Airport_Identifier":"04Y",
+    "Abbreviated\nAirport_Name":"Hawley",
+    "Manager_s_Name":"Lisa Jetvig",
+    "Airport_\nE_mail_Address":"ljetvig@arvig.net",
+    "Airport_Manager_s_Phone_No_":"218-483-3331",
+    "Airport_Manager_s_Address___Line_1":"305 6th Street",
+    "Address_Line_2":"P.O. Box 69",
+    "City":"Hawley",
+    "State":"MN",
+    "Zip":"56,549",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.3,43.98 ]
+    },
+    "properties": {
+    "Airport_Identifier":"PQN",
+    "Abbreviated\nAirport_Name":"Pipestone",
+    "Manager_s_Name":"Rob Dykstra",
+    "Airport_\nE_mail_Address":"rdyks@aol.com",
+    "Airport_Manager_s_Phone_No_":"507-562-2332",
+    "Airport_Manager_s_Address___Line_1":"1302 13th Street SE.",
+    "Address_Line_2":"",
+    "City":"Pipestone",
+    "State":"MN",
+    "Zip":"56,164",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.29,47.55 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D14",
+    "Abbreviated\nAirport_Name":"Fertile",
+    "Manager_s_Name":"John Frohrip",
+    "Airport_\nE_mail_Address":"fertile@gvtel.com",
+    "Airport_Manager_s_Phone_No_":"218-945-3136",
+    "Airport_Manager_s_Address___Line_1":"101 S. Mill Street",
+    "Address_Line_2":"",
+    "City":"Fertile",
+    "State":"MN",
+    "Zip":"56,540",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.26,44.73 ]
+    },
+    "properties": {
+    "Airport_Identifier":"CNB",
+    "Abbreviated\nAirport_Name":"Canby",
+    "Manager_s_Name":"Matt  Wagner",
+    "Airport_\nE_mail_Address":"mathewwagner@Hotmail.com",
+    "Airport_Manager_s_Phone_No_":"507-829-9608",
+    "Airport_Manager_s_Address___Line_1":"105 Squire Lane",
+    "Address_Line_2":"",
+    "City":"Canby",
+    "State":"MN",
+    "Zip":"56,220",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.26,47.82 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D81",
+    "Abbreviated\nAirport_Name":"Red Lake Falls",
+    "Manager_s_Name":"Allen L. Ducharme",
+    "Airport_\nE_mail_Address":"rdlkfals@gvtel.com",
+    "Airport_Manager_s_Phone_No_":"218-253-2684",
+    "Airport_Manager_s_Address___Line_1":"108 2nd Street SW. ",
+    "Address_Line_2":"P.O. Box 37",
+    "City":"Red Lake Falls",
+    "State":"MN",
+    "Zip":"56,750",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.22,43.62 ]
+    },
+    "properties": {
+    "Airport_Identifier":"LYV",
+    "Abbreviated\nAirport_Name":"Luverne",
+    "Manager_s_Name":"Ben Baum",
+    "Airport_\nE_mail_Address":"ben@sierradeltaaviation.com",
+    "Airport_Manager_s_Phone_No_":"605-413-5028",
+    "Airport_Manager_s_Address___Line_1":"941 S Highway 75",
+    "Address_Line_2":"",
+    "City":"Luverne",
+    "State":"MN",
+    "Zip":"56,156",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.18,44.99 ]
+    },
+    "properties": {
+    "Airport_Identifier":"DXX",
+    "Abbreviated\nAirport_Name":"Lac Qui Parle",
+    "Manager_s_Name":"Mark Borgerson",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"320-598-3467",
+    "Airport_Manager_s_Address___Line_1":"P.O. Box 175",
+    "Address_Line_2":"",
+    "City":"Madison",
+    "State":"MN",
+    "Zip":"56,256",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.18,48.07 ]
+    },
+    "properties": {
+    "Airport_Identifier":"TVF",
+    "Abbreviated\nAirport_Name":"Thief River Falls",
+    "Manager_s_Name":"Joseph Hedrick",
+    "Airport_\nE_mail_Address":"trfairport@mncable.net",
+    "Airport_Manager_s_Phone_No_":"218-681-7680",
+    "Airport_Manager_s_Address___Line_1":"13722 Airport Drive",
+    "Address_Line_2":"",
+    "City":"Thief River Falls",
+    "State":"MN",
+    "Zip":"56,701",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.16,46.28 ]
+    },
+    "properties": {
+    "Airport_Identifier":"FFM",
+    "Abbreviated\nAirport_Name":"Fergus Falls",
+    "Manager_s_Name":"Curt Maleuha",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"218-739-3733",
+    "Airport_Manager_s_Address___Line_1":"4005 Highway 210 W.",
+    "Address_Line_2":"",
+    "City":"Fergus Falls",
+    "State":"MN",
+    "Zip":"56,538",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.16,45.83 ]
+    },
+    "properties": {
+    "Airport_Identifier":"06Y",
+    "Abbreviated\nAirport_Name":"Herman",
+    "Manager_s_Name":"Ken Werk",
+    "Airport_\nE_mail_Address":"kwerk@frontiernet.net",
+    "Airport_Manager_s_Phone_No_":"320-677-2621",
+    "Airport_Manager_s_Address___Line_1":"50 Berlin Avenue S.",
+    "Address_Line_2":"",
+    "City":"Herman",
+    "State":"MN",
+    "Zip":"56,248",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.15,44.29 ]
+    },
+    "properties": {
+    "Airport_Identifier":"63Y",
+    "Abbreviated\nAirport_Name":"Tyler",
+    "Manager_s_Name":"Daniel Tolsma",
+    "Airport_\nE_mail_Address":"cityadmin@heartlandpower.org",
+    "Airport_Manager_s_Phone_No_":"507-247-5556",
+    "Airport_Manager_s_Address___Line_1":"230 N. Tyler Street",
+    "Address_Line_2":"",
+    "City":"Tyler",
+    "State":"MN",
+    "Zip":"56,178",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.1,46.64 ]
+    },
+    "properties": {
+    "Airport_Identifier":"47Y",
+    "Abbreviated\nAirport_Name":"Pelican Rapids",
+    "Manager_s_Name":"Don Solga",
+    "Airport_\nE_mail_Address":"cityshop@loretel.net",
+    "Airport_Manager_s_Phone_No_":"218-863-6571",
+    "Airport_Manager_s_Address___Line_1":"315 North Broadway",
+    "Address_Line_2":"P.O. Box 350",
+    "City":"Pelican Rapids",
+    "State":"MN",
+    "Zip":"56,572",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96,45.23 ]
+    },
+    "properties": {
+    "Airport_Identifier":"AQP",
+    "Abbreviated\nAirport_Name":"Appleton",
+    "Manager_s_Name":"Gregory D. Ruether",
+    "Airport_\nE_mail_Address":"planerv9@yahoo.com",
+    "Airport_Manager_s_Phone_No_":"320-289-1293",
+    "Airport_Manager_s_Address___Line_1":"149 S. Munsterman Street",
+    "Address_Line_2":"",
+    "City":"Appleton",
+    "State":"MN",
+    "Zip":"56,208",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.99,45.99 ]
+    },
+    "properties": {
+    "Airport_Identifier":"Y63",
+    "Abbreviated\nAirport_Name":"Elbow Lake",
+    "Manager_s_Name":"Joseph V. LaRue",
+    "Airport_\nE_mail_Address":"joe@prairie-air.net",
+    "Airport_Manager_s_Phone_No_":"218-685-6594",
+    "Airport_Manager_s_Address___Line_1":"1111 2nd Street SW.",
+    "Address_Line_2":"",
+    "City":"Elbow Lake",
+    "State":"MN",
+    "Zip":"56,531",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.98,49 ]
+    },
+    "properties": {
+    "Airport_Identifier":"48Y",
+    "Abbreviated\nAirport_Name":"Pinecreek",
+    "Manager_s_Name":"Jake Elton",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"218-463-2030",
+    "Airport_Manager_s_Address___Line_1":"39495 310th Avenue",
+    "Address_Line_2":"",
+    "City":"Roseau",
+    "State":"MN",
+    "Zip":"56,751",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.97,45.57 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MOX",
+    "Abbreviated\nAirport_Name":"Morris",
+    "Manager_s_Name":"Dorothy Schneider",
+    "Airport_\nE_mail_Address":"cityhall@ci.morris.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-589-2083",
+    "Airport_Manager_s_Address___Line_1":"50725 State Highway 28",
+    "Address_Line_2":"",
+    "City":"Morris",
+    "State":"MN",
+    "Zip":"56,267",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.93,47.26 ]
+    },
+    "properties": {
+    "Airport_Identifier":"3N8",
+    "Abbreviated\nAirport_Name":"Mahnomen",
+    "Manager_s_Name":"Bill Nelson",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"218-935-5650",
+    "Airport_Manager_s_Address___Line_1":"601 6th Street SW.",
+    "Address_Line_2":"",
+    "City":"Mahnomen",
+    "State":"MN",
+    "Zip":"56,557",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.89,46.83 ]
+    },
+    "properties": {
+    "Airport_Identifier":"DTL",
+    "Abbreviated\nAirport_Name":"Detroit Lakes",
+    "Manager_s_Name":"Mark Bergen",
+    "Airport_\nE_mail_Address":"dlaviation@arvig.net",
+    "Airport_Manager_s_Phone_No_":"218-847-3233",
+    "Airport_Manager_s_Address___Line_1":"24813 Highway 10 W.",
+    "Address_Line_2":"",
+    "City":"Detroit Lakes",
+    "State":"MN",
+    "Zip":"56,501",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.82,44.45 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MML",
+    "Abbreviated\nAirport_Name":"Marshall",
+    "Manager_s_Name":"Glenn Olson",
+    "Airport_\nE_mail_Address":"Glenn.Olson@marshallmn.com",
+    "Airport_Manager_s_Phone_No_":"507-537-6773",
+    "Airport_Manager_s_Address___Line_1":"344 W. Main Street",
+    "Address_Line_2":"",
+    "City":"Marshall",
+    "State":"MN",
+    "Zip":"56,258",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.78,43.99 ]
+    },
+    "properties": {
+    "Airport_Identifier":"DVP",
+    "Abbreviated\nAirport_Name":"Slayton",
+    "Manager_s_Name":"",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"",
+    "Airport_Manager_s_Address___Line_1":"",
+    "Address_Line_2":"",
+    "City":"",
+    "State":"MN",
+    "Zip":"0",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.77,47.59 ]
+    },
+    "properties": {
+    "Airport_Identifier":"FSE",
+    "Abbreviated\nAirport_Name":"Fosston",
+    "Manager_s_Name":"Chuck Lucken",
+    "Airport_\nE_mail_Address":"chuck.lucken@fosston.com",
+    "Airport_Manager_s_Phone_No_":"218-435-1959",
+    "Airport_Manager_s_Address___Line_1":"220 E. First Street",
+    "Address_Line_2":"",
+    "City":"Fosston",
+    "State":"MN",
+    "Zip":"56,542",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.71,44.97 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MVE",
+    "Abbreviated\nAirport_Name":"Montevideo",
+    "Manager_s_Name":"Don Ruether",
+    "Airport_\nE_mail_Address":"monteair@gmail.com",
+    "Airport_Manager_s_Phone_No_":"320-269-4829",
+    "Airport_Manager_s_Address___Line_1":"1902 Benson Road",
+    "Address_Line_2":"",
+    "City":"Montevideo",
+    "State":"MN",
+    "Zip":"56,265",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7,48.86 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ROX",
+    "Abbreviated\nAirport_Name":"Roseau",
+    "Manager_s_Name":"Roseau Aviation",
+    "Airport_\nE_mail_Address":"arlens@mncable.net",
+    "Airport_Manager_s_Phone_No_":"218-463-3906",
+    "Airport_Manager_s_Address___Line_1":"31072 420th Avenue",
+    "Address_Line_2":"",
+    "City":"Roseau",
+    "State":"MN",
+    "Zip":"56,751",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.65,45.33 ]
+    },
+    "properties": {
+    "Airport_Identifier":"BBB",
+    "Abbreviated\nAirport_Name":"Benson",
+    "Manager_s_Name":"Elliot C. Nelson",
+    "Airport_\nE_mail_Address":"elliot.nelson@co.swift.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-843-5444",
+    "Airport_Manager_s_Address___Line_1":"1410 Kansas Avenue",
+    "Address_Line_2":"",
+    "City":"Benson",
+    "State":"MN",
+    "Zip":"56,215",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.63,48.3 ]
+    },
+    "properties": {
+    "Airport_Identifier":"3G2",
+    "Abbreviated\nAirport_Name":"Grygla",
+    "Manager_s_Name":"Carter Torgerson",
+    "Airport_\nE_mail_Address":"cityofgrygla@gvtel.com",
+    "Airport_Manager_s_Phone_No_":"218-294-6728",
+    "Airport_Manager_s_Address___Line_1":"219 West Beltrami Street",
+    "Address_Line_2":"",
+    "City":"Grygla",
+    "State":"MN",
+    "Zip":"56,727",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6,46.6 ]
+    },
+    "properties": {
+    "Airport_Identifier":"16D",
+    "Abbreviated\nAirport_Name":"Perham",
+    "Manager_s_Name":"Kelcey Klemm",
+    "Airport_\nE_mail_Address":"kklemm@cityofperham.com",
+    "Airport_Manager_s_Phone_No_":"218-346-4455",
+    "Airport_Manager_s_Address___Line_1":"125 2nd Street NE.",
+    "Address_Line_2":"P.O. Box 130",
+    "City":"Perham",
+    "State":"MN",
+    "Zip":"56,573",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6,44.25 ]
+    },
+    "properties": {
+    "Airport_Identifier":"TKC",
+    "Abbreviated\nAirport_Name":"Tracy",
+    "Manager_s_Name":"Homer G. Dobson",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"507-629-3833",
+    "Airport_Manager_s_Address___Line_1":"249 5th Street",
+    "Address_Line_2":"",
+    "City":"Tracy",
+    "State":"MN",
+    "Zip":"56,175",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.58,43.66 ]
+    },
+    "properties": {
+    "Airport_Identifier":"OTG",
+    "Abbreviated\nAirport_Name":"Worthington",
+    "Manager_s_Name":"James Laffrenzen",
+    "Airport_\nE_mail_Address":"jlaff@frontiernet.net",
+    "Airport_Manager_s_Phone_No_":"507-372-8650",
+    "Airport_Manager_s_Address___Line_1":"P.O. Box 279",
+    "Address_Line_2":"",
+    "City":"Worthington",
+    "State":"MN",
+    "Zip":"56,187",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.56,44.75 ]
+    },
+    "properties": {
+    "Airport_Identifier":"GDB",
+    "Abbreviated\nAirport_Name":"Granite Falls",
+    "Manager_s_Name":"Bill Lavin",
+    "Airport_\nE_mail_Address":"bill.lavin@granitefalls.com",
+    "Airport_Manager_s_Phone_No_":"320-564-3011",
+    "Airport_Manager_s_Address___Line_1":"641 Prentice Street",
+    "Address_Line_2":"",
+    "City":"Granite Falls",
+    "State":"MN",
+    "Zip":"56,241",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.53,45.6 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D32",
+    "Abbreviated\nAirport_Name":"Starbuck",
+    "Manager_s_Name":"Gary Koos",
+    "Airport_\nE_mail_Address":"starwtp@hcinet.net",
+    "Airport_Manager_s_Phone_No_":"320-239-2516",
+    "Airport_Manager_s_Address___Line_1":"307 E. 5th Street",
+    "Address_Line_2":"P.O. Box 606",
+    "City":"Starbuck",
+    "State":"MN",
+    "Zip":"56,381",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.44,46.3 ]
+    },
+    "properties": {
+    "Airport_Identifier":"05Y",
+    "Abbreviated\nAirport_Name":"Henning",
+    "Manager_s_Name":"John W. Thalmann",
+    "Airport_\nE_mail_Address":"jwthalm@arvig.net",
+    "Airport_Manager_s_Phone_No_":"218-583-2270",
+    "Airport_Manager_s_Address___Line_1":"405 Douglas Avenue",
+    "Address_Line_2":"",
+    "City":"Henning",
+    "State":"MN",
+    "Zip":"56,551",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4,45.22 ]
+    },
+    "properties": {
+    "Airport_Identifier":"23Y",
+    "Abbreviated\nAirport_Name":"Murdock",
+    "Manager_s_Name":"Harlyn Saulsbury",
+    "Airport_\nE_mail_Address":"michellels@tds.net",
+    "Airport_Manager_s_Phone_No_":"320-875-4841",
+    "Airport_Manager_s_Address___Line_1":"300 Fredrick Street",
+    "Address_Line_2":"",
+    "City":"Murdock",
+    "State":"MN",
+    "Zip":"56,271",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.39,45.87 ]
+    },
+    "properties": {
+    "Airport_Identifier":"AXN",
+    "Abbreviated\nAirport_Name":"Alexandria",
+    "Manager_s_Name":"Todd G. Roth",
+    "Airport_\nE_mail_Address":"alexav@rea-alp.com",
+    "Airport_Manager_s_Phone_No_":"320-762-2111",
+    "Airport_Manager_s_Address___Line_1":"2604 Aga Drive",
+    "Address_Line_2":"",
+    "City":"Alexandria",
+    "State":"MN",
+    "Zip":"56,308",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36,47.52 ]
+    },
+    "properties": {
+    "Airport_Identifier":"7Y4",
+    "Abbreviated\nAirport_Name":"Bagley",
+    "Manager_s_Name":"Bill Masterson",
+    "Airport_\nE_mail_Address":"bagleystreets@gvtel.com",
+    "Airport_Manager_s_Phone_No_":"218-694-6532",
+    "Airport_Manager_s_Address___Line_1":"18 Main Avenue S.",
+    "Address_Line_2":"",
+    "City":"Bagley",
+    "State":"MN",
+    "Zip":"56,621",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35,48.94 ]
+    },
+    "properties": {
+    "Airport_Identifier":"RRT",
+    "Abbreviated\nAirport_Name":"Warroad",
+    "Manager_s_Name":"Bruce Maclean",
+    "Airport_\nE_mail_Address":"macthepilot@hotmail.com",
+    "Airport_Manager_s_Phone_No_":"218-386-1691",
+    "Airport_Manager_s_Address___Line_1":"36955 County Road 13",
+    "Address_Line_2":"",
+    "City":"Warroad",
+    "State":"MN",
+    "Zip":"56,763",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.32,45.64 ]
+    },
+    "properties": {
+    "Airport_Identifier":"GHW",
+    "Abbreviated\nAirport_Name":"Glenwood",
+    "Manager_s_Name":"Dave Iverson",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"320-634-5433",
+    "Airport_Manager_s_Address___Line_1":"137 E. Minnesota Avenue",
+    "Address_Line_2":"",
+    "City":"Glenwood",
+    "State":"MN",
+    "Zip":"56,344",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.21,46.45 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ADC",
+    "Abbreviated\nAirport_Name":"Wadena",
+    "Manager_s_Name":"Brad Swenson",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"218-631-770",
+    "Airport_Manager_s_Address___Line_1":"P.O. Box 30",
+    "Address_Line_2":"",
+    "City":"Wadena",
+    "State":"MN",
+    "Zip":"56,482",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.13,45.12 ]
+    },
+    "properties": {
+    "Airport_Identifier":"BDH",
+    "Abbreviated\nAirport_Name":"Willmar",
+    "Manager_s_Name":"Megan Sauer",
+    "Airport_\nE_mail_Address":"msauer@ci.willmar.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-235-8311",
+    "Airport_Manager_s_Address___Line_1":"333 6th Street SW.",
+    "Address_Line_2":"",
+    "City":"Willmar",
+    "State":"MN",
+    "Zip":"56,201",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.11,45.5 ]
+    },
+    "properties": {
+    "Airport_Identifier":"6D1",
+    "Abbreviated\nAirport_Name":"Brooten",
+    "Manager_s_Name":"David W. Bohmer",
+    "Airport_\nE_mail_Address":"dbohmer@tds.net",
+    "Airport_Manager_s_Phone_No_":"320-346-2234",
+    "Airport_Manager_s_Address___Line_1":"147 Central Avenue S.",
+    "Address_Line_2":"P.O. Box 400",
+    "City":"Brooten",
+    "State":"MN",
+    "Zip":"56,316",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.11,43.91 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MWM",
+    "Abbreviated\nAirport_Name":"Windom",
+    "Manager_s_Name":"Brian Underwood",
+    "Airport_\nE_mail_Address":"horsepoor_ridefast@hotmail.com",
+    "Airport_Manager_s_Phone_No_":"507-830-0273",
+    "Airport_Manager_s_Address___Line_1":"444 9th Street",
+    "Address_Line_2":"Box 38",
+    "City":"Windom",
+    "State":"MN",
+    "Zip":"56,101",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.08,44.55 ]
+    },
+    "properties": {
+    "Airport_Identifier":"RWF",
+    "Abbreviated\nAirport_Name":"Redwood Falls",
+    "Manager_s_Name":"David Fuhr",
+    "Airport_\nE_mail_Address":"dfuhr@airbornedatasystems.com",
+    "Airport_Manager_s_Phone_No_":"507-644-3590",
+    "Airport_Manager_s_Address___Line_1":"500 Airport Drive",
+    "Address_Line_2":"",
+    "City":"Redwood Falls",
+    "State":"MN",
+    "Zip":"56,283",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.07,46.9 ]
+    },
+    "properties": {
+    "Airport_Identifier":"PKD",
+    "Abbreviated\nAirport_Name":"Park Rapids",
+    "Manager_s_Name":"Scott Burlingame",
+    "Airport_\nE_mail_Address":"pworks@unitelc.com",
+    "Airport_Manager_s_Phone_No_":"218-237-2713",
+    "Airport_Manager_s_Address___Line_1":"1425 Fair Avenue",
+    "Address_Line_2":"",
+    "City":"Park Rapids",
+    "State":"MN",
+    "Zip":"56,470",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.03,44.78 ]
+    },
+    "properties": {
+    "Airport_Identifier":"OVL",
+    "Abbreviated\nAirport_Name":"Olivia",
+    "Manager_s_Name":"Richard Sigurdson",
+    "Airport_\nE_mail_Address":"cityofolivia@olivia.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-979-8326",
+    "Airport_Manager_s_Address___Line_1":"2725 W. Lincoln Avenue",
+    "Address_Line_2":"",
+    "City":"Olivia",
+    "State":"MN",
+    "Zip":"56,277",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95,44.23 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D42",
+    "Abbreviated\nAirport_Name":"Springfield",
+    "Manager_s_Name":"Malcolm Tilberg",
+    "Airport_\nE_mail_Address":"manager@newulmtel.net",
+    "Airport_Manager_s_Phone_No_":"507-723-3500",
+    "Airport_Manager_s_Address___Line_1":"2 E. Central Street",
+    "Address_Line_2":"",
+    "City":"Springfield",
+    "State":"MN",
+    "Zip":"56,087",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.99,43.65 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MJQ",
+    "Abbreviated\nAirport_Name":"Jackson",
+    "Manager_s_Name":"Paul Sanders",
+    "Airport_\nE_mail_Address":"psaviationinc@yahoo.com",
+    "Airport_Manager_s_Phone_No_":"507-447-2675",
+    "Airport_Manager_s_Address___Line_1":"217 E. Creamery Street",
+    "Address_Line_2":"",
+    "City":"Granada",
+    "State":"MN",
+    "Zip":"56,039",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.93,47.51 ]
+    },
+    "properties": {
+    "Airport_Identifier":"BJI",
+    "Abbreviated\nAirport_Name":"Bemidji",
+    "Manager_s_Name":"Harold M. Van Leeuwen, Jr.",
+    "Airport_\nE_mail_Address":"harold.vanleeuwen@bemidjiairport.org",
+    "Airport_Manager_s_Phone_No_":"218-444-2438",
+    "Airport_Manager_s_Address___Line_1":"3824 Moberg Dr. NW   Suite 101",
+    "Address_Line_2":"",
+    "City":"Bemidji",
+    "State":"MN",
+    "Zip":"56,601",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.93,45.71 ]
+    },
+    "properties": {
+    "Airport_Identifier":"D39",
+    "Abbreviated\nAirport_Name":"Sauk Centre",
+    "Manager_s_Name":"Vicki Willer",
+    "Airport_\nE_mail_Address":"vicki.willer@ci.sauk-centre.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-352-2203",
+    "Airport_Manager_s_Address___Line_1":"320 Oak Street S.",
+    "Address_Line_2":"",
+    "City":"Sauk Centre",
+    "State":"MN",
+    "Zip":"56,378",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.91,46.11 ]
+    },
+    "properties": {
+    "Airport_Identifier":"8Y5",
+    "Abbreviated\nAirport_Name":"Clarissa",
+    "Manager_s_Name":"Sue Kent",
+    "Airport_\nE_mail_Address":"clarissa@eaglevalleytel.net",
+    "Airport_Manager_s_Phone_No_":"218-756-2125",
+    "Airport_Manager_s_Address___Line_1":"202 Main Street W.",
+    "Address_Line_2":"",
+    "City":"Clarissa",
+    "State":"MN",
+    "Zip":"56,440",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.87,45.9 ]
+    },
+    "properties": {
+    "Airport_Identifier":"14Y",
+    "Abbreviated\nAirport_Name":"Long Prairie",
+    "Manager_s_Name":"Chad Kuehne",
+    "Airport_\nE_mail_Address":"dvenekamp@embarqmail.com",
+    "Airport_Manager_s_Phone_No_":"320-732-2167",
+    "Airport_Manager_s_Address___Line_1":"18794 Elm Drive",
+    "Address_Line_2":"",
+    "City":"Long Prairie",
+    "State":"MN",
+    "Zip":"56,347",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.81,46.38 ]
+    },
+    "properties": {
+    "Airport_Identifier":"SAZ",
+    "Abbreviated\nAirport_Name":"Staples",
+    "Manager_s_Name":"Nathan Mathews",
+    "Airport_\nE_mail_Address":"nmathews@ci.staples.mn.us",
+    "Airport_Manager_s_Phone_No_":"218-894-2550",
+    "Airport_Manager_s_Address___Line_1":"122 6th Street NE.",
+    "Address_Line_2":"",
+    "City":"Staples",
+    "State":"MN",
+    "Zip":"56,479",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.73,45.37 ]
+    },
+    "properties": {
+    "Airport_Identifier":"PEX",
+    "Abbreviated\nAirport_Name":"Paynesville",
+    "Manager_s_Name":"Ron Mergen",
+    "Airport_\nE_mail_Address":"ron@paynesvillemn.com",
+    "Airport_Manager_s_Phone_No_":"320-243-3714",
+    "Airport_Manager_s_Address___Line_1":"221 Washburne Avenue",
+    "Address_Line_2":"",
+    "City":"Paynesville",
+    "State":"MN",
+    "Zip":"56,362",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.72,44.25 ]
+    },
+    "properties": {
+    "Airport_Identifier":"Y58",
+    "Abbreviated\nAirport_Name":"Sleepy Eye",
+    "Manager_s_Name":"Charles Moldaschel",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"507-794-7318",
+    "Airport_Manager_s_Address___Line_1":"904 3rd Avenue NE.",
+    "Address_Line_2":"",
+    "City":"Sleepy Eye",
+    "State":"MN",
+    "Zip":"56,085",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.71,44.73 ]
+    },
+    "properties": {
+    "Airport_Identifier":"1D6",
+    "Abbreviated\nAirport_Name":"Hector",
+    "Manager_s_Name":"Ed Newberg",
+    "Airport_\nE_mail_Address":"newberg@hutchtel.net",
+    "Airport_Manager_s_Phone_No_":"320 848 2146",
+    "Airport_Manager_s_Address___Line_1":"78980 State Highway 4",
+    "Address_Line_2":"",
+    "City":"Hector",
+    "State":"MN",
+    "Zip":"55,342",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.65,47.16 ]
+    },
+    "properties": {
+    "Airport_Identifier":"Y49",
+    "Abbreviated\nAirport_Name":"Walker",
+    "Manager_s_Name":"Ken Bresley",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"218-547-1616",
+    "Airport_Manager_s_Address___Line_1":"6909 State Highway 371",
+    "Address_Line_2":"",
+    "City":"Walker",
+    "State":"MN",
+    "Zip":"56,484",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.61,48.73 ]
+    },
+    "properties": {
+    "Airport_Identifier":"BDE",
+    "Abbreviated\nAirport_Name":"Baudette",
+    "Manager_s_Name":"Emory Vaagen",
+    "Airport_\nE_mail_Address":"bearaviationinc@yahoo.com",
+    "Airport_Manager_s_Phone_No_":"218-634-1923",
+    "Airport_Manager_s_Address___Line_1":"402 3rd Avenue NE.",
+    "Address_Line_2":"",
+    "City":"Baudette",
+    "State":"MN",
+    "Zip":"56,623",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.56,43.99 ]
+    },
+    "properties": {
+    "Airport_Identifier":"JYG",
+    "Abbreviated\nAirport_Name":"St. James",
+    "Manager_s_Name":"Joe McCabe",
+    "Airport_\nE_mail_Address":"manager@stjames.govoffice.com",
+    "Airport_Manager_s_Phone_No_":"507-375-3241",
+    "Airport_Manager_s_Address___Line_1":"124 Armstrong Boulevard S.",
+    "Address_Line_2":"",
+    "City":"St. James",
+    "State":"MN",
+    "Zip":"56,081",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.52,48.15 ]
+    },
+    "properties": {
+    "Airport_Identifier":"VWU",
+    "Abbreviated\nAirport_Name":"Waskish",
+    "Manager_s_Name":"Ray E. Berger",
+    "Airport_\nE_mail_Address":"rberger@paulbunyan.net",
+    "Airport_Manager_s_Phone_No_":"218-766-1523",
+    "Airport_Manager_s_Address___Line_1":"54450 Frankie Lane NE.",
+    "Address_Line_2":"",
+    "City":"Waskish",
+    "State":"MN",
+    "Zip":"56,685",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.51,46.83 ]
+    },
+    "properties": {
+    "Airport_Identifier":"7Y3",
+    "Abbreviated\nAirport_Name":"Backus",
+    "Manager_s_Name":"Denny Williams",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"218-947-3100",
+    "Airport_Manager_s_Address___Line_1":"P.O. Box 187",
+    "Address_Line_2":"",
+    "City":"Backus",
+    "State":"MN",
+    "Zip":"56,435",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.51,45.1 ]
+    },
+    "properties": {
+    "Airport_Identifier":"LJF",
+    "Abbreviated\nAirport_Name":"Litchfield",
+    "Manager_s_Name":"Glenn Young",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"320-693-7201",
+    "Airport_Manager_s_Address___Line_1":"703 Park Avenue",
+    "Address_Line_2":"",
+    "City":"Litchfield",
+    "State":"MN",
+    "Zip":"55,355",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.5,44.32 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ULM",
+    "Abbreviated\nAirport_Name":"New Ulm",
+    "Manager_s_Name":"Pete Johnson",
+    "Airport_\nE_mail_Address":"nufs@newulmtel.net",
+    "Airport_Manager_s_Phone_No_":"507-359-8127",
+    "Airport_Manager_s_Address___Line_1":"1617 Highway 14 W.",
+    "Address_Line_2":"",
+    "City":"New Ulm",
+    "State":"MN",
+    "Zip":"56,073",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.42,43.64 ]
+    },
+    "properties": {
+    "Airport_Identifier":"FRM",
+    "Abbreviated\nAirport_Name":"Fairmont",
+    "Manager_s_Name":"Al Pelzer",
+    "Airport_\nE_mail_Address":"al@fivelakesaviation.com",
+    "Airport_Manager_s_Phone_No_":"507-235-2537",
+    "Airport_Manager_s_Address___Line_1":"2159 E. Blue Earth Avenue",
+    "Address_Line_2":"",
+    "City":"Fairmont",
+    "State":"MN",
+    "Zip":"56,031",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.38,44.86 ]
+    },
+    "properties": {
+    "Airport_Identifier":"HCD",
+    "Abbreviated\nAirport_Name":"Hutchinson",
+    "Manager_s_Name":"John Olson",
+    "Airport_\nE_mail_Address":"jolson@ci.hutchinson.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-234-4219",
+    "Airport_Manager_s_Address___Line_1":"1400 Adams Street SE.",
+    "Address_Line_2":"",
+    "City":"Hutchinson",
+    "State":"MN",
+    "Zip":"55,350",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.38,46.72 ]
+    },
+    "properties": {
+    "Airport_Identifier":"PWC",
+    "Abbreviated\nAirport_Name":"Pine River",
+    "Manager_s_Name":"Wanda Mongan",
+    "Airport_\nE_mail_Address":"allnoing@uslink.net",
+    "Airport_Manager_s_Phone_No_":"218-587-2440",
+    "Airport_Manager_s_Address___Line_1":"200 Front Street N.",
+    "Address_Line_2":"P.O. Box 87",
+    "City":"Pine River",
+    "State":"MN",
+    "Zip":"56,474",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.36,46.38 ]
+    },
+    "properties": {
+    "Airport_Identifier":"9Y2",
+    "Abbreviated\nAirport_Name":"East Gull Lake",
+    "Manager_s_Name":"The City Administrator",
+    "Airport_\nE_mail_Address":"ctyegull@scicable.com",
+    "Airport_Manager_s_Phone_No_":"218-828-9279",
+    "Airport_Manager_s_Address___Line_1":"10790 Squaw Point Road",
+    "Address_Line_2":"",
+    "City":"East Gull Lake",
+    "State":"MN",
+    "Zip":"56,401",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.35,45.95 ]
+    },
+    "properties": {
+    "Airport_Identifier":"LXL",
+    "Abbreviated\nAirport_Name":"Little Falls",
+    "Manager_s_Name":"",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"",
+    "Airport_Manager_s_Address___Line_1":"",
+    "Address_Line_2":"",
+    "City":"",
+    "State":"MN",
+    "Zip":"0",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.25,47.89 ]
+    },
+    "properties": {
+    "Airport_Identifier":"43Y",
+    "Abbreviated\nAirport_Name":"Northome",
+    "Manager_s_Name":"Connie White",
+    "Airport_\nE_mail_Address":"northome@paulbunyan.net",
+    "Airport_Manager_s_Phone_No_":"218-897-5762",
+    "Airport_Manager_s_Address___Line_1":"12064 Main Street",
+    "Address_Line_2":"P.O. Box 65",
+    "City":"Northome",
+    "State":"MN",
+    "Zip":"56,661",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.2,46.99 ]
+    },
+    "properties": {
+    "Airport_Identifier":"XVG",
+    "Abbreviated\nAirport_Name":"Longville",
+    "Manager_s_Name":"Dayna Merten",
+    "Airport_\nE_mail_Address":"cityoflngvl@arvig.net",
+    "Airport_Manager_s_Phone_No_":"218-363-2022",
+    "Airport_Manager_s_Address___Line_1":"P.O. Box 217",
+    "Address_Line_2":"",
+    "City":"Longville",
+    "State":"MN",
+    "Zip":"56,655",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.14,46.4 ]
+    },
+    "properties": {
+    "Airport_Identifier":"BRD",
+    "Abbreviated\nAirport_Name":"Brainerd",
+    "Manager_s_Name":"Steve D. Sievek",
+    "Airport_\nE_mail_Address":"steve@brainerdairport.com",
+    "Airport_Manager_s_Phone_No_":"218-825-2166",
+    "Airport_Manager_s_Address___Line_1":"16384 Airport Road",
+    "Address_Line_2":"Suite 5",
+    "City":"Brainerd",
+    "State":"MN",
+    "Zip":"56,401",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.09,43.6 ]
+    },
+    "properties": {
+    "Airport_Identifier":"SBU",
+    "Abbreviated\nAirport_Name":"Blue Earth",
+    "Manager_s_Name":"Tim & Barb Steier",
+    "Airport_\nE_mail_Address":"steier@bevcomm.net",
+    "Airport_Manager_s_Phone_No_":"507-526-7264",
+    "Airport_Manager_s_Address___Line_1":"7575 US Hwy 169",
+    "Address_Line_2":"",
+    "City":"Blue Earth",
+    "State":"MN",
+    "Zip":"56,013",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.08,44.76 ]
+    },
+    "properties": {
+    "Airport_Identifier":"GYL",
+    "Abbreviated\nAirport_Name":"Glencoe",
+    "Manager_s_Name":"Mark D. Larson",
+    "Airport_\nE_mail_Address":"MLarson@ci.glencoe.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-864-5586",
+    "Airport_Manager_s_Address___Line_1":"1107 E. 11th Street",
+    "Address_Line_2":"Suite 107",
+    "City":"Glencoe",
+    "State":"MN",
+    "Zip":"55,336",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.07,44.95 ]
+    },
+    "properties": {
+    "Airport_Identifier":"10D",
+    "Abbreviated\nAirport_Name":"Winsted",
+    "Manager_s_Name":"Russ Paschke",
+    "Airport_\nE_mail_Address":"publicworks@winsted.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-487-3720",
+    "Airport_Manager_s_Address___Line_1":"201 1st Street N.",
+    "Address_Line_2":"",
+    "City":"Winsted",
+    "State":"MN",
+    "Zip":"55,395",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.06,45.55 ]
+    },
+    "properties": {
+    "Airport_Identifier":"STC",
+    "Abbreviated\nAirport_Name":"St. Cloud",
+    "Manager_s_Name":"Bill Towle",
+    "Airport_\nE_mail_Address":"william.towle@ci.stcloud.mn.us",
+    "Airport_Manager_s_Phone_No_":"320-255-7292",
+    "Airport_Manager_s_Address___Line_1":"1550 45th Avenue SE.",
+    "Address_Line_2":"Suite 1",
+    "City":"St. Cloud",
+    "State":"MN",
+    "Zip":"56,304",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.99,45.24 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MGG",
+    "Abbreviated\nAirport_Name":"Maple Lake",
+    "Manager_s_Name":"Gerald Sawatzke",
+    "Airport_\nE_mail_Address":"cityshop@lakedalelink.net",
+    "Airport_Manager_s_Phone_No_":"612-490-8459",
+    "Airport_Manager_s_Address___Line_1":"10 Maple Avenue S.",
+    "Address_Line_2":"P.O. Box 757",
+    "City":"Maple Lake",
+    "State":"MN",
+    "Zip":"55,358",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.92,44.22 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MKT",
+    "Abbreviated\nAirport_Name":"Mankato",
+    "Manager_s_Name":"Kevin Baker",
+    "Airport_\nE_mail_Address":"kbaker@city.mankato.mn.us",
+    "Airport_Manager_s_Phone_No_":"507-345-3171",
+    "Airport_Manager_s_Address___Line_1":"3030 Airport Road",
+    "Address_Line_2":"",
+    "City":"Mankato",
+    "State":"MN",
+    "Zip":"56,001",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.91,44.44 ]
+    },
+    "properties": {
+    "Airport_Identifier":"12Y",
+    "Abbreviated\nAirport_Name":"Le Sueur",
+    "Manager_s_Name":"Ron Sinell",
+    "Airport_\nE_mail_Address":"rsinell@cityoflesueur.com",
+    "Airport_Manager_s_Phone_No_":"507-665-2266",
+    "Airport_Manager_s_Address___Line_1":"203 S. 2nd Street",
+    "Address_Line_2":"P.O. Box 176",
+    "City":"Le Sueur",
+    "State":"MN",
+    "Zip":"56,058",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.91,47.07 ]
+    },
+    "properties": {
+    "Airport_Identifier":"52Y",
+    "Abbreviated\nAirport_Name":"Remer",
+    "Manager_s_Name":"Mark Madden",
+    "Airport_\nE_mail_Address":"remercty@means.net",
+    "Airport_Manager_s_Phone_No_":"218-566-4156",
+    "Airport_Manager_s_Address___Line_1":"106 Spruce Street",
+    "Address_Line_2":"",
+    "City":"Remer",
+    "State":"MN",
+    "Zip":"56,672",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.87,47.56 ]
+    },
+    "properties": {
+    "Airport_Identifier":"9Y0",
+    "Abbreviated\nAirport_Name":"Bowstring",
+    "Manager_s_Name":"Kenneth Reichert",
+    "Airport_\nE_mail_Address":"kreichert@bigfork.net",
+    "Airport_Manager_s_Phone_No_":"218-244-6328",
+    "Airport_Manager_s_Address___Line_1":"47703 Nutmeg Road",
+    "Address_Line_2":"",
+    "City":"Deer River",
+    "State":"MN",
+    "Zip":"56,636",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.84,45.16 ]
+    },
+    "properties": {
+    "Airport_Identifier":"CFE",
+    "Abbreviated\nAirport_Name":"Buffalo",
+    "Manager_s_Name":"Chris Fredrick",
+    "Airport_\nE_mail_Address":"chris.fredrick@ci.buffalo.mn.us",
+    "Airport_Manager_s_Phone_No_":"763-682-0296",
+    "Airport_Manager_s_Address___Line_1":"1305 County Road 134",
+    "Address_Line_2":"",
+    "City":"Buffalo",
+    "State":"MN",
+    "Zip":"55,313",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.78,43.73 ]
+    },
+    "properties": {
+    "Airport_Identifier":"68Y",
+    "Abbreviated\nAirport_Name":"Wells",
+    "Manager_s_Name":"Jeremy Germann",
+    "Airport_\nE_mail_Address":"jgermann@cityofwells.net",
+    "Airport_Manager_s_Phone_No_":"507-553-6371",
+    "Airport_Manager_s_Address___Line_1":"125 South Broadway",
+    "Address_Line_2":"",
+    "City":"Wells",
+    "State":"MN",
+    "Zip":"56,097",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.77,48.2 ]
+    },
+    "properties": {
+    "Airport_Identifier":"7Y9",
+    "Abbreviated\nAirport_Name":"Big Falls",
+    "Manager_s_Name":"Terrence Baird",
+    "Airport_\nE_mail_Address":"bigfalls@citlink.net",
+    "Airport_Manager_s_Phone_No_":"218-556-4827",
+    "Airport_Manager_s_Address___Line_1":"410 2nd Street NW.",
+    "Address_Line_2":"",
+    "City":"Big Falls",
+    "State":"MN",
+    "Zip":"56,627",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.68,46.55 ]
+    },
+    "properties": {
+    "Airport_Identifier":"AIT",
+    "Abbreviated\nAirport_Name":"Aitkin",
+    "Manager_s_Name":"Kathy Brophy",
+    "Airport_\nE_mail_Address":"cityclerk@ci.aitkin.mn.us",
+    "Airport_Manager_s_Phone_No_":"218-927-2527",
+    "Airport_Manager_s_Address___Line_1":"109 1st Avenue NW.",
+    "Address_Line_2":"",
+    "City":"Aitkin",
+    "State":"MN",
+    "Zip":"56,431",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.65,47.78 ]
+    },
+    "properties": {
+    "Airport_Identifier":"FOZ",
+    "Abbreviated\nAirport_Name":"Bigfork",
+    "Manager_s_Name":"Hiram Gene Ward",
+    "Airport_\nE_mail_Address":"hgw@bigfork.net",
+    "Airport_Manager_s_Phone_No_":"218-743-6175",
+    "Airport_Manager_s_Address___Line_1":"58022 State Highway 38",
+    "Address_Line_2":"",
+    "City":"Bigfork",
+    "State":"MN",
+    "Zip":"56,628",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.63,45.77 ]
+    },
+    "properties": {
+    "Airport_Identifier":"18Y",
+    "Abbreviated\nAirport_Name":"Milaca",
+    "Manager_s_Name":"Steve Burklund",
+    "Airport_\nE_mail_Address":"steveburklund@aol.com",
+    "Airport_Manager_s_Phone_No_":"320-492-8246",
+    "Airport_Manager_s_Address___Line_1":"255 1st Street East",
+    "Address_Line_2":"",
+    "City":"Milaca",
+    "State":"MN",
+    "Zip":"56,353",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.61,45.56 ]
+    },
+    "properties": {
+    "Airport_Identifier":"PNM",
+    "Abbreviated\nAirport_Name":"Princeton",
+    "Manager_s_Name":"Mark Karnowski",
+    "Airport_\nE_mail_Address":"mark@princetonmn.org",
+    "Airport_Manager_s_Phone_No_":"763-389-2040",
+    "Airport_Manager_s_Address___Line_1":"705 2nd Street N.",
+    "Address_Line_2":"",
+    "City":"Princeton",
+    "State":"MN",
+    "Zip":"55,371",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6,46.96 ]
+    },
+    "properties": {
+    "Airport_Identifier":"07Y",
+    "Abbreviated\nAirport_Name":"Hill City",
+    "Manager_s_Name":"Diana Gillson",
+    "Airport_\nE_mail_Address":"hillcity@scicable.com",
+    "Airport_Manager_s_Phone_No_":"218-697-2301",
+    "Airport_Manager_s_Address___Line_1":"125 Lake Avenue",
+    "Address_Line_2":"P.O. Box 160",
+    "City":"Hill City",
+    "State":"MN",
+    "Zip":"55,748",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.58,48.41 ]
+    },
+    "properties": {
+    "Airport_Identifier":"13Y",
+    "Abbreviated\nAirport_Name":"Littlefork",
+    "Manager_s_Name":"Mike Fairchild",
+    "Airport_\nE_mail_Address":"lttlfork@hotmail.com",
+    "Airport_Manager_s_Phone_No_":"218-278-6710",
+    "Airport_Manager_s_Address___Line_1":"901 Main Street",
+    "Address_Line_2":"",
+    "City":"Littlefork",
+    "State":"MN",
+    "Zip":"56,653",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.55,44.07 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ACQ",
+    "Abbreviated\nAirport_Name":"Waseca",
+    "Manager_s_Name":"Maynard Stensrud",
+    "Airport_\nE_mail_Address":"msstensrud@hotmail.com",
+    "Airport_Manager_s_Phone_No_":"507-835-5920",
+    "Airport_Manager_s_Address___Line_1":"508 S. State Street",
+    "Address_Line_2":"",
+    "City":"Waseca",
+    "State":"MN",
+    "Zip":"56,093",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.51,47.21 ]
+    },
+    "properties": {
+    "Airport_Identifier":"GPZ",
+    "Abbreviated\nAirport_Name":"Grand Rapids",
+    "Manager_s_Name":"Matthew Romanik",
+    "Airport_\nE_mail_Address":"mromanik@ci.grand-rapids.mn.us",
+    "Airport_Manager_s_Phone_No_":"218-326-0893",
+    "Airport_Manager_s_Address___Line_1":"1500 SE. 7th Avenue",
+    "Address_Line_2":"",
+    "City":"Grand Rapids",
+    "State":"MN",
+    "Zip":"55,744",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.46,44.83 ]
+    },
+    "properties": {
+    "Airport_Identifier":"FCM",
+    "Abbreviated\nAirport_Name":"Flying Cloud",
+    "Manager_s_Name":"Jeff Nawrocki",
+    "Airport_\nE_mail_Address":"jeff.nawrocki@mspmac.org",
+    "Airport_Manager_s_Phone_No_":"763-537-2058",
+    "Airport_Manager_s_Address___Line_1":"6040 28th Avenue S.",
+    "Address_Line_2":"",
+    "City":"Minneapolis",
+    "State":"MN",
+    "Zip":"55,450",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.4,48.57 ]
+    },
+    "properties": {
+    "Airport_Identifier":"INL",
+    "Abbreviated\nAirport_Name":"International Falls",
+    "Manager_s_Name":"Thor Einarson",
+    "Airport_\nE_mail_Address":"thor@einarsonflying.com",
+    "Airport_Manager_s_Phone_No_":"218-283-4461",
+    "Airport_Manager_s_Address___Line_1":"3214 Second Avenue E.",
+    "Address_Line_2":"",
+    "City":"International Falls",
+    "State":"MN",
+    "Zip":"56,649",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.37,43.68 ]
+    },
+    "properties": {
+    "Airport_Identifier":"AEL",
+    "Abbreviated\nAirport_Name":"Albert Lea",
+    "Manager_s_Name":"Jim Hanson",
+    "Airport_\nE_mail_Address":"jimhanson@deskmedia.com",
+    "Airport_Manager_s_Phone_No_":"507-373-0608",
+    "Airport_Manager_s_Address___Line_1":"221 E. Clark Street",
+    "Address_Line_2":"",
+    "City":"Albert Lea",
+    "State":"MN",
+    "Zip":"56,007",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.35,45.06 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MIC",
+    "Abbreviated\nAirport_Name":"Crystal",
+    "Manager_s_Name":"Jeff Nawrocki",
+    "Airport_\nE_mail_Address":"jeff.nawrocki@comcast.net",
+    "Airport_Manager_s_Phone_No_":"763-537-2058",
+    "Airport_Manager_s_Address___Line_1":"6040 28th Avenue S.",
+    "Address_Line_2":"",
+    "City":"Minneapolis",
+    "State":"MN",
+    "Zip":"55,450",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.31,44.32 ]
+    },
+    "properties": {
+    "Airport_Identifier":"FBL",
+    "Abbreviated\nAirport_Name":"Faribault",
+    "Manager_s_Name":"Gerald L. Serres",
+    "Airport_\nE_mail_Address":"jlserres@me.com",
+    "Airport_Manager_s_Phone_No_":"507-332-0140",
+    "Airport_Manager_s_Address___Line_1":"3401 West Trunk Highway 21",
+    "Address_Line_2":"",
+    "City":"Faribault",
+    "State":"MN",
+    "Zip":"55,021",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.31,46.62 ]
+    },
+    "properties": {
+    "Airport_Identifier":"HZX",
+    "Abbreviated\nAirport_Name":"McGregor",
+    "Manager_s_Name":"Mike Zebro",
+    "Airport_\nE_mail_Address":"mcgsubs@mlecmn.net",
+    "Airport_Manager_s_Phone_No_":"406-223-4955",
+    "Airport_Manager_s_Address___Line_1":"",
+    "Address_Line_2":"",
+    "City":"McGregor",
+    "State":"MN",
+    "Zip":"55,760",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.27,45.89 ]
+    },
+    "properties": {
+    "Airport_Identifier":"JMR",
+    "Abbreviated\nAirport_Name":"Mora",
+    "Manager_s_Name":"Joel Dhein",
+    "Airport_\nE_mail_Address":"joel.dhein@cityofmora.com",
+    "Airport_Manager_s_Phone_No_":"320-679-1151",
+    "Airport_Manager_s_Address___Line_1":"101 Lake Street S.",
+    "Address_Line_2":"",
+    "City":"Mora",
+    "State":"MN",
+    "Zip":"55,051",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.26,45.56 ]
+    },
+    "properties": {
+    "Airport_Identifier":"CBG",
+    "Abbreviated\nAirport_Name":"Cambridge",
+    "Manager_s_Name":"Steven Wegwerth",
+    "Airport_\nE_mail_Address":"swegwerth@cambridgepw.org",
+    "Airport_Manager_s_Phone_No_":"763-689-1800",
+    "Airport_Manager_s_Address___Line_1":"300 3rd Avenue NE.",
+    "Address_Line_2":"",
+    "City":"Cambridge",
+    "State":"MN",
+    "Zip":"55,008",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.26,44.12 ]
+    },
+    "properties": {
+    "Airport_Identifier":"OWA",
+    "Abbreviated\nAirport_Name":"Owatonna",
+    "Manager_s_Name":"Dave Beaver",
+    "Airport_\nE_mail_Address":"airport@ci.owatonna.mn.us",
+    "Airport_Manager_s_Phone_No_":"507-444-2448",
+    "Airport_Manager_s_Address___Line_1":"3400 W. Frontage Road",
+    "Address_Line_2":"",
+    "City":"Owatonna",
+    "State":"MN",
+    "Zip":"55,060",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23,44.63 ]
+    },
+    "properties": {
+    "Airport_Identifier":"LVN",
+    "Abbreviated\nAirport_Name":"Airlake",
+    "Manager_s_Name":"Greg Fries",
+    "Airport_\nE_mail_Address":"greg.fries@mspmac.org",
+    "Airport_Manager_s_Phone_No_":"651-224-4306",
+    "Airport_Manager_s_Address___Line_1":"6040 28th Avenue S.",
+    "Address_Line_2":"",
+    "City":"Minneapolis",
+    "State":"MN",
+    "Zip":"55,450",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22,44.88 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MSP",
+    "Abbreviated\nAirport_Name":"Minneapolis-St. Paul",
+    "Manager_s_Name":"Steve Wareham",
+    "Airport_\nE_mail_Address":"steve.wareham@mspmac.org",
+    "Airport_Manager_s_Phone_No_":"612-725-6464",
+    "Airport_Manager_s_Address___Line_1":"4300 Glumack Drive",
+    "Address_Line_2":"Suite 3000",
+    "City":"Saint Paul",
+    "State":"MN",
+    "Zip":"55,111",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21,45.15 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ANE",
+    "Abbreviated\nAirport_Name":"Anoka",
+    "Manager_s_Name":"Joseph Harris",
+    "Airport_\nE_mail_Address":"Joe.Harris@mspmac.org",
+    "Airport_Manager_s_Phone_No_":"763-717-0001",
+    "Airport_Manager_s_Address___Line_1":"6040 28th Avenue S.",
+    "Address_Line_2":"",
+    "City":"Minneapolis",
+    "State":"MN",
+    "Zip":"55,450",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06,44.93 ]
+    },
+    "properties": {
+    "Airport_Identifier":"STP",
+    "Abbreviated\nAirport_Name":"Holman Field",
+    "Manager_s_Name":"Greg Fries",
+    "Airport_\nE_mail_Address":"greg.fries@mspmac.org",
+    "Airport_Manager_s_Phone_No_":"651-224-4306",
+    "Airport_Manager_s_Address___Line_1":"6040 28th Avenue S.",
+    "Address_Line_2":"",
+    "City":"Minneapolis",
+    "State":"MN",
+    "Zip":"55,450",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03,44.86 ]
+    },
+    "properties": {
+    "Airport_Identifier":"SGS",
+    "Abbreviated\nAirport_Name":"South St. Paul",
+    "Manager_s_Name":"Glenn Burke",
+    "Airport_\nE_mail_Address":"glenn.burke@southstpaul.org",
+    "Airport_Manager_s_Phone_No_":"651-554-3350",
+    "Airport_Manager_s_Address___Line_1":"1725 Henry Avenue",
+    "Address_Line_2":"",
+    "City":"South St. Paul",
+    "State":"MN",
+    "Zip":"55,075",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.99,45.25 ]
+    },
+    "properties": {
+    "Airport_Identifier":"25D",
+    "Abbreviated\nAirport_Name":"Forest Lake",
+    "Manager_s_Name":"Rick Ashbach",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"651-464-8707",
+    "Airport_Manager_s_Address___Line_1":"",
+    "Address_Line_2":"",
+    "City":"Forest Lake",
+    "State":"MN",
+    "Zip":"55,025",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.95,45.7 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ROS",
+    "Abbreviated\nAirport_Name":"Rush City",
+    "Manager_s_Name":"Don Swanson",
+    "Airport_\nE_mail_Address":"cityhall@ci.rush-city.mn.us",
+    "Airport_Manager_s_Phone_No_":"612-616-9947",
+    "Airport_Manager_s_Address___Line_1":"54175 Forest Boulevard",
+    "Address_Line_2":"P.O. Box 556",
+    "City":"Rush City",
+    "State":"MN",
+    "Zip":"55,069",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.93,43.66 ]
+    },
+    "properties": {
+    "Airport_Identifier":"AUM",
+    "Abbreviated\nAirport_Name":"Austin",
+    "Manager_s_Name":"Bruce W. Budahn",
+    "Airport_\nE_mail_Address":"austinaeroflight@austinaeroflight.com",
+    "Airport_Manager_s_Phone_No_":"507-433-1813",
+    "Airport_Manager_s_Address___Line_1":"710 21st Street NE.",
+    "Address_Line_2":"",
+    "City":"Austin",
+    "State":"MN",
+    "Zip":"55,912",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.86,45 ]
+    },
+    "properties": {
+    "Airport_Identifier":"21D",
+    "Abbreviated\nAirport_Name":"Lake Elmo",
+    "Manager_s_Name":"Joseph Harris",
+    "Airport_\nE_mail_Address":"Joe.Harris@mspmac.org",
+    "Airport_Manager_s_Phone_No_":"651-777-6300",
+    "Airport_Manager_s_Address___Line_1":"6040 28th Avenue S.",
+    "Address_Line_2":"",
+    "City":"Minneapolis",
+    "State":"MN",
+    "Zip":"55,450",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.86,48.02 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ORB",
+    "Abbreviated\nAirport_Name":"Orr",
+    "Manager_s_Name":"Joel Astleford",
+    "Airport_\nE_mail_Address":"orrmnedc@centurytel.net",
+    "Airport_Manager_s_Phone_No_":"218-757-9994",
+    "Airport_Manager_s_Address___Line_1":"4429 Highway 53",
+    "Address_Line_2":"",
+    "City":"Orr",
+    "State":"MN",
+    "Zip":"55,771",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.84,47.39 ]
+    },
+    "properties": {
+    "Airport_Identifier":"HIB",
+    "Abbreviated\nAirport_Name":"Hibbing",
+    "Manager_s_Name":"Shaun Germolus",
+    "Airport_\nE_mail_Address":"shaun@rangeregionalairport.com",
+    "Airport_Manager_s_Phone_No_":"218-262-3451",
+    "Airport_Manager_s_Address___Line_1":"11038 Highway 37",
+    "Address_Line_2":"",
+    "City":"Hibbing",
+    "State":"MN",
+    "Zip":"55,746",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.83,44.02 ]
+    },
+    "properties": {
+    "Airport_Identifier":"TOB",
+    "Abbreviated\nAirport_Name":"Dodge Center",
+    "Manager_s_Name":"Wayne A. Trom",
+    "Airport_\nE_mail_Address":"wrtrom@kmtel.co",
+    "Airport_Manager_s_Phone_No_":"507-374-6245",
+    "Airport_Manager_s_Address___Line_1":"806 Airport Road S.",
+    "Address_Line_2":"",
+    "City":"Dodge Center",
+    "State":"MN",
+    "Zip":"55,927",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.8,46.42 ]
+    },
+    "properties": {
+    "Airport_Identifier":"MZH",
+    "Abbreviated\nAirport_Name":"Moose Lake",
+    "Manager_s_Name":"Quinten Anderson",
+    "Airport_\nE_mail_Address":"quinten@cloquetairport.com",
+    "Airport_Manager_s_Phone_No_":"218-879-4911",
+    "Airport_Manager_s_Address___Line_1":"125 Wheaton Road",
+    "Address_Line_2":"",
+    "City":"Cloquet",
+    "State":"MN",
+    "Zip":"55,720",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.69,47.82 ]
+    },
+    "properties": {
+    "Airport_Identifier":"CQM",
+    "Abbreviated\nAirport_Name":"Cook",
+    "Manager_s_Name":"Theresa Martinson",
+    "Airport_\nE_mail_Address":"Theresa@cookmn.us",
+    "Airport_Manager_s_Phone_No_":"218-666-2200",
+    "Airport_Manager_s_Address___Line_1":"127 S. River Street",
+    "Address_Line_2":"",
+    "City":"Cook",
+    "State":"MN",
+    "Zip":"55,723",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.51,46.7 ]
+    },
+    "properties": {
+    "Airport_Identifier":"COQ",
+    "Abbreviated\nAirport_Name":"Cloquet",
+    "Manager_s_Name":"Quinten Anderson",
+    "Airport_\nE_mail_Address":"quinten@cloquetairport.com",
+    "Airport_Manager_s_Phone_No_":"218-879-4911",
+    "Airport_Manager_s_Address___Line_1":"125 Wheaton Road",
+    "Address_Line_2":"",
+    "City":"Cloquet",
+    "State":"MN",
+    "Zip":"55,720",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.5,47.43 ]
+    },
+    "properties": {
+    "Airport_Identifier":"EVM",
+    "Abbreviated\nAirport_Name":"Eveleth",
+    "Manager_s_Name":"Gary Ulman",
+    "Airport_\nE_mail_Address":"e-vairportauthority@live.com",
+    "Airport_Manager_s_Phone_No_":"218-744-1428",
+    "Airport_Manager_s_Address___Line_1":"4280 Miller Trunk Road",
+    "Address_Line_2":"",
+    "City":"Eveleth",
+    "State":"MN",
+    "Zip":"55,734",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.5,43.91 ]
+    },
+    "properties": {
+    "Airport_Identifier":"RST",
+    "Abbreviated\nAirport_Name":"Rochester",
+    "Manager_s_Name":"Steven W. Leqve",
+    "Airport_\nE_mail_Address":"sleqve@flyrst.com",
+    "Airport_Manager_s_Phone_No_":"507-282-2328",
+    "Airport_Manager_s_Address___Line_1":"7600 Helgerson Drive SW.",
+    "Address_Line_2":"",
+    "City":"Rochester",
+    "State":"MN",
+    "Zip":"55,902",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.49,44.59 ]
+    },
+    "properties": {
+    "Airport_Identifier":"RGK",
+    "Abbreviated\nAirport_Name":"Red Wing",
+    "Manager_s_Name":"Rick Moskwa",
+    "Airport_\nE_mail_Address":"rick.moskwa@ci.red-wing.mn.us",
+    "Airport_Manager_s_Phone_No_":"651-385-3653",
+    "Airport_Manager_s_Address___Line_1":"229 Tyler Road N.",
+    "Address_Line_2":"",
+    "City":"Red Wing",
+    "State":"MN",
+    "Zip":"55,066",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.29,47.82 ]
+    },
+    "properties": {
+    "Airport_Identifier":"12D",
+    "Abbreviated\nAirport_Name":"Tower",
+    "Manager_s_Name":"Ann Lamppa",
+    "Airport_\nE_mail_Address":"cityoftower@accessmn.com",
+    "Airport_Manager_s_Phone_No_":"218-753-4070",
+    "Airport_Manager_s_Address___Line_1":"602 Main Street",
+    "Address_Line_2":"",
+    "City":"Tower",
+    "State":"MN",
+    "Zip":"55,790",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.19,46.84 ]
+    },
+    "properties": {
+    "Airport_Identifier":"DLH",
+    "Abbreviated\nAirport_Name":"Duluth",
+    "Manager_s_Name":"Brian Ryks",
+    "Airport_\nE_mail_Address":"bryks@duluthairport.com",
+    "Airport_Manager_s_Phone_No_":"218-727-2968",
+    "Airport_Manager_s_Address___Line_1":"4701 Grinden Drive",
+    "Address_Line_2":"",
+    "City":"Duluth",
+    "State":"MN",
+    "Zip":"55,811",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.18,43.68 ]
+    },
+    "properties": {
+    "Airport_Identifier":"FKA",
+    "Abbreviated\nAirport_Name":"Preston",
+    "Manager_s_Name":"Larry Tammel",
+    "Airport_\nE_mail_Address":"pschroeder@co.fillmore.mn.us",
+    "Airport_Manager_s_Phone_No_":"507-450-4731",
+    "Airport_Manager_s_Address___Line_1":"909 Houston Street NW.",
+    "Address_Line_2":"",
+    "City":"Preston",
+    "State":"MN",
+    "Zip":"55,965",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.04,46.72 ]
+    },
+    "properties": {
+    "Airport_Identifier":"DYT",
+    "Abbreviated\nAirport_Name":"Duluth Sky Harbor",
+    "Manager_s_Name":"Brian Madsen",
+    "Airport_\nE_mail_Address":"bmadsen@duluthairport.com",
+    "Airport_Manager_s_Phone_No_":"218-733-0078",
+    "Airport_Manager_s_Address___Line_1":"5000 Minnesota Avenue ",
+    "Address_Line_2":"Suite 1",
+    "City":"Duluth",
+    "State":"MN",
+    "Zip":"55,802",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.83,47.82 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ELO",
+    "Abbreviated\nAirport_Name":"Ely",
+    "Manager_s_Name":"James Preblich",
+    "Airport_\nE_mail_Address":"jim@preblich.com",
+    "Airport_Manager_s_Phone_No_":"218-365-5600",
+    "Airport_Manager_s_Address___Line_1":"1583 Highway 1",
+    "Address_Line_2":"",
+    "City":"Ely",
+    "State":"MN",
+    "Zip":"55,731",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.83,43.82 ]
+    },
+    "properties": {
+    "Airport_Identifier":"55Y",
+    "Abbreviated\nAirport_Name":"Rushford",
+    "Manager_s_Name":"Steve Sarvi",
+    "Airport_\nE_mail_Address":"rushford@acegroup.cc",
+    "Airport_Manager_s_Phone_No_":"507-864-2667",
+    "Airport_Manager_s_Address___Line_1":"101 N. Mill Street",
+    "Address_Line_2":"",
+    "City":"Rushford",
+    "State":"MN",
+    "Zip":"55,971",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.75,47.05 ]
+    },
+    "properties": {
+    "Airport_Identifier":"TWM",
+    "Abbreviated\nAirport_Name":"Two Harbors",
+    "Manager_s_Name":"Richard B. Helegson",
+    "Airport_\nE_mail_Address":"",
+    "Airport_Manager_s_Phone_No_":"218-834-2162",
+    "Airport_Manager_s_Address___Line_1":"608 Airport Road",
+    "Address_Line_2":"",
+    "City":"Two Harbors",
+    "State":"MN",
+    "Zip":"55,616",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.71,44.08 ]
+    },
+    "properties": {
+    "Airport_Identifier":"ONA",
+    "Abbreviated\nAirport_Name":"Winona",
+    "Manager_s_Name":"Keith Nelson",
+    "Airport_\nE_mail_Address":"knelson@ci.winona.mn.us",
+    "Airport_Manager_s_Phone_No_":"507-457-8274",
+    "Airport_Manager_s_Address___Line_1":"207 Lafayette Street",
+    "Address_Line_2":"",
+    "City":"Winona",
+    "State":"MN",
+    "Zip":"55,987",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.5,43.6 ]
+    },
+    "properties": {
+    "Airport_Identifier":"CHU",
+    "Abbreviated\nAirport_Name":"Houston",
+    "Manager_s_Name":"Brian Pogodzinski",
+    "Airport_\nE_mail_Address":"Brian.Pogodzinski@co.houston.mn.us",
+    "Airport_Manager_s_Phone_No_":"507-725-3925",
+    "Airport_Manager_s_Address___Line_1":"1124 E. Washington Street",
+    "Address_Line_2":"",
+    "City":"Caledonia",
+    "State":"MN",
+    "Zip":"55,921",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.42,47.25 ]
+    },
+    "properties": {
+    "Airport_Identifier":"BFW",
+    "Abbreviated\nAirport_Name":"Silver Bay",
+    "Manager_s_Name":"James Larson",
+    "Airport_\nE_mail_Address":"sbstreets@hotmail.com",
+    "Airport_Manager_s_Phone_No_":"218-226-4408",
+    "Airport_Manager_s_Address___Line_1":"7 Davis Drive",
+    "Address_Line_2":"",
+    "City":"Silver Bay",
+    "State":"MN",
+    "Zip":"55,614",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.38,47.84 ]
+    },
+    "properties": {
+    "Airport_Identifier":"CKC",
+    "Abbreviated\nAirport_Name":"Grand Marais",
+    "Manager_s_Name":"Rodney E. Roy",
+    "Airport_\nE_mail_Address":"airport@boreal.org",
+    "Airport_Manager_s_Phone_No_":"218-387-3024",
+    "Airport_Manager_s_Address___Line_1":"123 Airport Road",
+    "Address_Line_2":"",
+    "City":"Grand Marais",
+    "State":"MN",
+    "Zip":"55,604",
+    "Field13":"",
+    "Field14":"",
+    "Field15":""
+    }
+  }
+]
+}
