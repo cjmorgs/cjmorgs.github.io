@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 	<html lang="en">
-
 		<head>
 			<meta charset="utf-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -14,51 +13,18 @@
 		</head>
 
 		<body>
-			<div class="container">
- 				<div class="jumbotron">
- 					<a href="index.html">
- 						<img src="assets/canoe2.png" style="border-radius:10px" / >
- 					</a>
- 					<h2 style="font-family:Trebuchet MS">Christopher Morgan | Geographer</h2>
- 					<p style="font-family:Trebuchet MS">Physical Geography - Cartography - Geographic Information Systems</p>
- 					<p style="font-family:Trebuchet MS"><font size="4">Environmental Studies - European Studies</font></p>
- 				</div>
- 			</div>
-
-  			<div class="container">
- 				<nav class="navbar navbar-default navbar-fixed-middle main-navbar"> <!--Creates navbar-->
- 					<div class="navbar-header"> <!--Creates the navbar header-->
- 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-						data-target="#navbar" aria-expanded="false" ariacontrols="navbar">
- 						<span class="sr-only">Toggle navigation</span> <!--Used for screen readers for accessibility-->
- 						<span class="glyphicon glyphicon-menu-hamburger"></span>
- 						<span class="menu">Menu</span>
- 						</button> <!--Hamburger button for smaller devices-->
- 					</div>
- 					<div id="navbar" class="collapse navbar-collapse"> <!--Links in navbar-->
- 						<ul class="nav navbar-nav"> <!-- Unordered list for links on navbar -->
- 							<li><a href="about_me.html">About Me</a></li>
- 							<li><a href="maps.html">Maps</a></li>
- 							<li><a href="research.html">Research</a></li>
- 							<li><a href="contact.html">Contact</a></li>
- 						</ul>
- 					</div> <!-- end .navbar-collapse -->
- 				</nav> <!-- end .container -->
- 			</div> <!-- end navigation bar -->
-
-
-			<!--put your external script links here-->
-			<script type="text/javascript" src="lib/jquery-1.11.3.min.js"></script>
-			<script type="text/javascript" src="lib/bootstrap.min.js"></script>
-
-			<div class="container">
+				<div class="container" style="margin-top:20px">
  					<div class="row">
  						<div class="col-md-12">
- 							<div class="thumbnail portfolio-thumbnail">
- 								<a href="maps.html">
-									<img src="assets/insets.png"
-									alt="Madison, WI, USA, World Insets" />
-								</a>
+ 							<div class="thumbnail index" id="lakes">
+								<img src="assets/msn6-text-01.png" usemap="#4lakes"
+								alt="Madison, WI, USA, World Insets" />
+								<map name="4lakes">
+								  <area shape="circle" coords="350,220,110" alt="About Me" href="about_me.html">
+								  <area shape="circle" coords="500,330,60" alt="Maps" href="maps.html">
+								  <area shape="circle" coords="590,550,70" alt="Research" href="research.html">
+								  <area shape="circle" coords="790,730,70" alt="Contact" href="contact.html">
+								</map>	
  							</div>
  						</div>
  					</div>
@@ -67,7 +33,6 @@
  			<img alt="full screen background image" src="assets/wood.jpg" id="full-screen-background-image" /> 
   				<div id="wrapper">
   				</div>
-
-		</body>
+  		</body>
 
 	</html>
