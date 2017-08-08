@@ -5,6 +5,29 @@ html, body {
   margin: 0;
 }
 
+@font-face{ 
+  font-family: 'Ostrich';
+  src: url('../fonts/ostrichsans-black-webfont.woff') format('woff');
+}
+@font-face{ 
+  font-family: 'Josefin Sans';
+  src: url('../fonts/josefinsans-regular-webfont.woff') format('woff');
+}
+@font-face{ 
+  font-family: 'Josefin Slab';
+  src: url('../fonts/josefinslab-bold-webfont.woff') format('woff');
+}
+@font-face{ 
+  font-family: 'Open Sans';
+  src: url('../fonts/opensans-regular-webfont.woff') format('woff');
+}
+
+h1 { font-family: 'Josefin Slab', Arial, sans-serif; } 
+h2 { font-family: 'Josefin Slab', Arial, sans-serif; }
+h3 { font-family: 'Open Sans', Arial, sans-serif; }
+p { font-family: 'Open Sans', Arial, sans-serif; }
+#contactlist { font-family: 'Open Sans', Arial, sans-serif; }
+
 #full-screen-background-image-home {
   z-index: -999;
   min-height: 100%;
@@ -87,7 +110,7 @@ html, body {
 .btn-primary.outline {
     border: 2px solid #fff;
     color: #808080;
-    font-family: Book Antiqua;
+    font-family: Josefin Slab;
     text-shadow: 1px 1px #fff;
 }
 #about.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
@@ -139,7 +162,7 @@ html, body {
 }
 .navbar-default {
 	background-color: #e5cea2; /*wheat*/
-	font-family:Book Antiqua;
+	font-family:Josefin Slab;
 	border-radius: 10px;
 	background-image: none;
 }
@@ -170,7 +193,7 @@ html, body {
 }
 .about_me h2 {
 	color: #70c197; /*marl blue*/
-	font-size: 170%;
+	font-size: 190%;
 }
 .resume h2 {
   color: #ea7f7f; /*ember red*/
@@ -178,21 +201,22 @@ html, body {
 }
 .contact h2 {
 	color: #70c197; /*marl blue*/
-	font-size: 170%;
+	font-size: 190%;
 } 
 .contact ul {
 	font-size: 130%;
 }
 .maps h2 {
 	color: #70c197; /*marl blue*/
-	font-size: 170%;
+	font-size: 190%;
 }
 .research h2 {
 	color: #70c197; /*marl blue*/
-	font-size: 170%;
+	font-size: 190%;
 }
+
 .research h3 {
-	font-size: 150%;
+  font-size: 130%;
 }
 
 a:link {
