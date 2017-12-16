@@ -104,8 +104,10 @@ p { font-family: 'Open Sans', Arial, sans-serif; }
 }
 
 .btn.outline {
-    background: none;
     padding: 12px 22px;
+}
+.btn-primary {
+    background: rgba(255, 255, 255, 0.4);
 }
 .btn-primary.outline {
     border: 2px solid #fff;
@@ -220,10 +222,10 @@ p { font-family: 'Open Sans', Arial, sans-serif; }
 }
 
 a:link {
-	color: #e6b800; /*gold*/
+	color: #db7b3a; /*orange*/
 }
 a:visited {
-	color: #f3b07c; /*orange*/
+	color: #aa6a9e; /*violet*/
 }
 
 .navbar-header .navbar-toggle:hover,
