@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Cities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "City": "Dublin", "Celtic_Name": "Baile Atha Cliath", "Meaning": "\"town of the hurdled ford\"", "Nation": "Ireland", "Population": "553,165", "lat": 53.349722, "long": -6.260278 }, "geometry": { "type": "Point", "coordinates": [ -6.260278, 53.349722 ] } },
+{ "type": "Feature", "properties": { "City": "Cork", "Celtic_Name": "Corcaigh", "Meaning": "\"marsh\"", "Nation": "Ireland", "Population": "125,622", "lat": 51.897222, "long": -8.47 }, "geometry": { "type": "Point", "coordinates": [ -8.47, 51.897222 ] } },
+{ "type": "Feature", "properties": { "City": "Galway", "Celtic_Name": "Gaillimh", "Meaning": "\"stony (river)\"", "Nation": "Ireland", "Population": "79,934", "lat": 53.271944, "long": -9.048889 }, "geometry": { "type": "Point", "coordinates": [ -9.048889, 53.271944 ] } },
+{ "type": "Feature", "properties": { "City": "Belfast", "Celtic_Name": "Beal Feirste", "Meaning": "\"(river) mouth of the sandbar\"", "Nation": "Ireland", "Population": "340,200", "lat": 54.598611, "long": -5.9275 }, "geometry": { "type": "Point", "coordinates": [ -5.9275, 54.598611 ] } },
+{ "type": "Feature", "properties": { "City": "Douglas", "Celtic_Name": "Doolish", "Meaning": "\"black river\"", "Nation": "Isle of Man", "Population": "27,938", "lat": 54.145, "long": -4.482 }, "geometry": { "type": "Point", "coordinates": [ -4.482, 54.145 ] } },
+{ "type": "Feature", "properties": { "City": "Glasgow", "Celtic_Name": "Glaschu", "Meaning": "\"dear green place\"", "Nation": "Scotland", "Population": "621,020", "lat": 55.858, "long": -4.259 }, "geometry": { "type": "Point", "coordinates": [ -4.259, 55.858 ] } },
+{ "type": "Feature", "properties": { "City": "Edinburgh", "Celtic_Name": "Dun Eideann", "Meaning": "\"fort of Eidyn\"", "Nation": "Scotland", "Population": "464,990", "lat": 55.953056, "long": -3.188889 }, "geometry": { "type": "Point", "coordinates": [ -3.188889, 55.953056 ] } },
+{ "type": "Feature", "properties": { "City": "Inverness", "Celtic_Name": "Inbhir Nis", "Meaning": "\"mouth of the River Ness\"", "Nation": "Scotland", "Population": "63,780", "lat": 57.4718, "long": -4.2254 }, "geometry": { "type": "Point", "coordinates": [ -4.2254, 57.4718 ] } },
+{ "type": "Feature", "properties": { "City": "Aberdeen", "Celtic_Name": "Obar Dheathain", "Meaning": "\"confluence of the Rivers Don and Dee\"", "Nation": "Scotland", "Population": "196,670", "lat": 57.15, "long": -2.11 }, "geometry": { "type": "Point", "coordinates": [ -2.11, 57.15 ] } },
+{ "type": "Feature", "properties": { "City": "Cardiff", "Celtic_Name": "Caerdydd", "Meaning": "\"fort of the River Taff\"", "Nation": "Wales", "Population": "361,468", "lat": 51.483333, "long": -3.183333 }, "geometry": { "type": "Point", "coordinates": [ -3.183333, 51.483333 ] } },
+{ "type": "Feature", "properties": { "City": "Swansea", "Celtic_Name": "Abertawe", "Meaning": "\"mouth of the River Tawe\"", "Nation": "Wales", "Population": "245,500", "lat": 51.616667, "long": -3.95 }, "geometry": { "type": "Point", "coordinates": [ -3.95, 51.616667 ] } },
+{ "type": "Feature", "properties": { "City": "Bangor", "Celtic_Name": "Bangor", "Meaning": "\"wattled enclosure\"", "Nation": "Wales", "Population": "18,810", "lat": 53.228, "long": -4.128 }, "geometry": { "type": "Point", "coordinates": [ -4.128, 53.228 ] } },
+{ "type": "Feature", "properties": { "City": "Truro", "Celtic_Name": "Truru", "Meaning": "\"three rivers\"", "Nation": "Cornwall", "Population": "18,766", "lat": 50.26, "long": -5.051 }, "geometry": { "type": "Point", "coordinates": [ -5.051, 50.26 ] } },
+{ "type": "Feature", "properties": { "City": "Rennes", "Celtic_Name": "Roazhon", "Meaning": "\"confluence\"", "Nation": "Brittany", "Population": "215,366", "lat": 48.1147, "long": -1.6794 }, "geometry": { "type": "Point", "coordinates": [ -1.6794, 48.1147 ] } },
+{ "type": "Feature", "properties": { "City": "Brest", "Celtic_Name": "Bresta", "Meaning": "\"hill\"", "Nation": "Brittany", "Population": "144,548", "lat": 48.39, "long": -4.49 }, "geometry": { "type": "Point", "coordinates": [ -4.49, 48.39 ] } },
+{ "type": "Feature", "properties": { "City": "Nantes", "Celtic_Name": "Naoned", "Meaning": "\"valley\"", "Nation": "Brittany", "Population": "303,382", "lat": 47.2181, "long": -1.5528 }, "geometry": { "type": "Point", "coordinates": [ -1.5528, 47.2181 ] } },
+{ "type": "Feature", "properties": { "City": "Santiago de Compostela", "Celtic_Name": "--", "Meaning": "\"St. James' field of the star\" (Latin)", "Nation": "Galicia", "Population": "95,671", "lat": 42.877778, "long": -8.544444 }, "geometry": { "type": "Point", "coordinates": [ -8.544444, 42.877778 ] } },
+{ "type": "Feature", "properties": { "City": "Vigo", "Celtic_Name": "Vigo", "Meaning": "\"small village\" (Latin)", "Nation": "Galicia", "Population": "292,817", "lat": 42.231356, "long": -8.712447 }, "geometry": { "type": "Point", "coordinates": [ -8.712447, 42.231356 ] } }
+]
+}

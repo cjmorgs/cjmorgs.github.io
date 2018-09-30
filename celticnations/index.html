@@ -19,9 +19,24 @@
 
 	</head>
 
-	<body>
+	<body onload="myFunction()" style="margin:0;">
+					<script>
+						var myVar;
+
+						function myFunction() {
+						    myVar = setTimeout(showPage, 3000);
+						}
+
+						function showPage() {
+						  document.getElementById("loader").style.display = "none";
+						  document.getElementById("myDiv").style.display = "block";
+						}
+					</script>
+
+		<div class="loader"></div>
+
 		<div id="map"></div>
-		
+
 		<div id="sidebar">
         <h1 id="title">Modern Celtic Nations</h1>
         <p id="sidebar-text"><b>Welcome</b>, <i>Fáilte</i>, <b>Croeso</b>, <i>Failt erriu</i>, <b>Degemer mat</b>, <i>Dynnargh</i>
@@ -35,8 +50,10 @@
 				<br>
 				Of the six languages spoken, three belong to the Goidelic or Gaelic branch (Irish, Scottish Gaelic, and Manx) and three to the Brythonic or Brittonic branch (Welsh, Cornish, and Breton).
 				<br>
-				<br>
+				<br>				
 				<img id="pan-celtic" src="img/Banniel_Keltia.png">
+				<br>
+				<i style="font-size: 75%">Portions paraphrased from the <a href="https://en.wikipedia.org/wiki/Celtic_nations">"Celtic nations" Wikipedia entry</a></i>
 				</p>
 		</div>
 

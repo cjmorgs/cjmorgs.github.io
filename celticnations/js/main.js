@@ -33,7 +33,7 @@ function createMap(){
   map.getPane('labels').style.zIndex = 5;
 
   var Custom_Basemap = L.tileLayer('https://api.mapbox.com/styles/v1/cjmorgan3/ciwjpfxjg000l2qnx9psnbju9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2ptb3JnYW4zIiwiYSI6ImNpZnlmYTRhcjUydGtzeG0xYnN3Yzlob2kifQ.59R4wFBtWHUdtZR2TToiJA', {
-    attribution: 'Map and Tiles by <a href="http://cjmorgs.github.io">Christopher Morgan</a> using <a href="https://www.mapbox.com/">Mapbox</a>',
+    attribution: 'Map and Tiles by <a href="http://cjmorgs.github.io">Christopher Morgan</a> using <a href="https://www.mapbox.com/">Mapbox</a> | <a href="img/">Image Credit</a>',
     subdomains: 'abcd',
     minZoom: 1,
     maxZoom: 16
@@ -124,6 +124,95 @@ function getData(map){
             }
     }).addTo(map);
   }); 
+
+    // load GeoJSON from an external file
+  $.getJSON("data/Cities.geojson",function(cityData){
+    var cityIcon = L.icon({
+      iconUrl: "img/citypin.png",
+      iconSize: [25, 32],
+      iconAnchor: [20, 30],
+      popupAnchor: [-7.5, -18]
+    });
+
+    // add GeoJSON layer to the map once the file is loaded
+    var cities = L.geoJson(cityData,{
+      pointToLayer: function(feature,latlng){
+        return L.marker(latlng,{icon: cityIcon});
+      },
+      onEachFeature: function (feature, layer) {
+                popupOptions = {maxWidth: 150, minWidth: 150};
+                if ( feature.properties.City == "Santiago de Compostela" ) layer.bindPopup("<b id='cityNpark'>" + feature.properties.City + "</b>" + "<br>" + "<b>Celtic Name:</b> " + feature.properties.Celtic_Name + "<br>" + "<b>Meaning:</b> " + feature.properties.Meaning + "<br>" + "<b>Nation:</b> " + feature.properties.Nation + "<br>" + "<b>Population:</b> " + feature.properties.Population + "<br>" + "<br>" + "<img width=100% src=img/cities/santiagodecompostela.png>"
+                    ,popupOptions);
+                else layer.bindPopup("<b id='cityNpark'>" + feature.properties.City + "</b>" + "<br>" + "<b>Celtic Name:</b> " + feature.properties.Celtic_Name + "<br>" + "<b>Meaning:</b> " + feature.properties.Meaning + "<br>" + "<b>Nation:</b> " + feature.properties.Nation + "<br>" + "<b>Population:</b> " + feature.properties.Population + "<br>" + "<br>" + "<img width=100% src=img/cities/" + feature.properties.City + ".png>"
+                    ,popupOptions);
+            }
+    });
+
+    var citymarkers = L.easyButton({
+      states: [{
+        icon: 'fa-users',
+        stateName: 'add-markers',
+        title: 'Add cities',
+        onClick: function(control) {
+          map.addLayer(cities);
+          control.state('remove-markers');
+        }
+      }, {
+        icon: 'fa-undo',
+        stateName: 'remove-markers',
+        onClick: function(control) {
+          map.removeLayer(cities);
+          control.state('add-markers');
+        },
+        title: 'Remove cities'
+      }]
+    });
+    citymarkers.addTo(map);
+  });
+
+      // load GeoJSON from an external file
+  $.getJSON("data/Parks.geojson",function(parkData){
+    var parkIcon = L.icon({
+      iconUrl: "img/parkpin.png",
+      iconSize: [25, 32],
+      iconAnchor: [20, 30],
+      popupAnchor: [-7.5, -18]
+    });
+
+    // add GeoJSON layer to the map once the file is loaded
+    var parks = L.geoJson(parkData,{
+      pointToLayer: function(feature,latlng){
+        return L.marker(latlng,{icon: parkIcon});
+      },
+      onEachFeature: function (feature, layer) {
+                popupOptions = {maxWidth: 150, minWidth: 150};
+                layer.bindPopup("<b id='cityNpark'>" + feature.properties.Park + "</b>" + "<br>" + "<b>Nation:</b> " + feature.properties.Nation + "<br>" + "<br>" + "<img width=100% src=img/parks/" + feature.properties.Park.substr(0,feature.properties.Park.indexOf(' ')) + ".png>"
+                    ,popupOptions);
+            }
+    });
+
+    var parkmarkers = L.easyButton({
+      states: [{
+        icon: 'fa-tree',
+        stateName: 'add-markers',
+        title: 'Add parks',
+        onClick: function(control) {
+          map.addLayer(parks);
+          control.state('remove-markers');
+        }
+      }, {
+        icon: 'fa-undo',
+        stateName: 'remove-markers',
+        onClick: function(control) {
+          map.removeLayer(parks);
+          control.state('add-markers');
+        },
+        title: 'Remove parks'
+      }]
+    });
+    parkmarkers.addTo(map);
+  });
+
 };
 
 

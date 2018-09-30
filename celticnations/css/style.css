@@ -67,9 +67,19 @@ p {
     src: url(../img/stonehen.ttf);
 }
 
+@font-face {
+    font-family: Dumbeldor;
+    src: url(../img/dum1.ttf);
+}
+
+@font-face {
+    font-family: Northumbria;
+    src: url(../img/DK-Northumbria.ttf);
+}
+
 #title {
-	font-family: Stonehenge;	
-	font-size: 2.75em;
+	font-family: Dumbeldor;	
+	font-size: 3.25em;
 	font-weight: bold;
 }
 
@@ -81,6 +91,12 @@ p {
 	font-family: Erin;
 	font-size: 250%;
 	text-indent: 30%;
+}
+
+#cityNpark {
+  font-family: Northumbria;
+  font-size: 150%;
+  text-indent: 30%;
 }
 
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {
@@ -101,4 +117,31 @@ p {
 
 .leaflet-sidebar.close {
 	background: #e6e6e6;
+}
+
+.loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
